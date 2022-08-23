@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M+ LaLiga 1080
+#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M+ LaLiga 1080
 http://127.0.0.1:6878/ace/getstream?id=167e3b44a520cd76d4372f6d30fe6d7ccd524175
 #EXTINF:-1 group-title="DEPORTES"  tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-espana-1686.png" ,DAZN LaLiga 1080
 http://127.0.0.1:6878/ace/getstream?id=df98650743f24a245c44cdf2851e57078f4c487a
