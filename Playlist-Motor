@@ -59,3 +59,7 @@ http://127.0.0.1:6878/ace/getstream?id=b402a5fc3d93860c7f4a9c46463ff5469b6436f6&
 http://127.0.0.1:6878/ace/getstream?id=3c81c395fc9385c650e0fba8c286935c594f7e1a&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 #EXTINF:-1 group-title="PRINCIPALES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-pt-sport-tv-3-452.png" ,ID RUSO
 http://127.0.0.1:6878/ace/getstream?id=ceaa2553d401c294166b8e498f5aaa1ef1aee8e4&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="PRINCIPALES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-pt-sport-tv-3-452.png" ,ESPN (US)
+http://127.0.0.1:6878/ace/getstream?id=4b4907de51ec11087d4bed5876f2a0c68264f442&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="PRINCIPALES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-pt-sport-tv-3-452.png" ,ESPN 2 (US)
+http://127.0.0.1:6878/ace/getstream?id=664eb5fe460b96941aed633959a845b185cd8394&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
