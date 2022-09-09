@@ -3,6 +3,8 @@
 http://127.0.0.1:6878/ace/getstream?id=167e3b44a520cd76d4372f6d30fe6d7ccd524175&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 #EXTINF:-1 group-title="PRINCIPALES"  tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-espana-1686.png" ,DAZN LaLiga 1080
 http://127.0.0.1:6878/ace/getstream?id=df98650743f24a245c44cdf2851e57078f4c487a&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="PRINCIPALES"  tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-espana-1686.png" ,DAZN LaLiga 1080 TEST
+http://127.0.0.1:6878/ace/getstream?id=c72263175266c90d376dcb8607c28e02939c1873&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 #EXTINF:-1 group-title="PRINCIPALES" tvg-id="LaLiga SmartbankTV" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/bd/9b/liga-smartbank-segunda-division_xhswjieo133q103y74ktzlvz9.jpg" ,M+ LaLiga Smartbank 1080
 http://127.0.0.1:6878/ace/getstream?id=d4fa689e575f7626c8b136c9ad8685b945d3cccf&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 #EXTINF:-1 group-title="PRINCIPALES" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 1080
