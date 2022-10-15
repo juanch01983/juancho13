@@ -71,18 +71,29 @@ http://127.0.0.1:6878/ace/getstream?id=2492f8aa7cd7c4800e7b22c4ecba05e34c18be00&
 http://127.0.0.1:6878/ace/getstream?id=e40b29774fdfd953751a71f5695f647726623b9d&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 #EXTINF:-1 group-title="PRINCIPALES" tvg-logo="https://a.espncdn.com/redesign/assets/img/logos/espn-404@2x.png" ,ESPN 3
 http://127.0.0.1:6878/ace/getstream?id=b97f5975dbd067655432512d4693b417bc85a714&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
-#EXTINF:-1 group-title="PRINCIPALES" ,ELEVEN SPORT 1 4K
+#EXTINF:-1 group-title="FUTBOL OTRO IDIOMA" ,ELEVEN SPORT 1 4K (PL)
 http://127.0.0.1:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
-#EXTINF:-1 group-title="PRINCIPALES" ,ELEVEN SPORT 1 HD
+#EXTINF:-1 group-title="FUTBOL OTRO IDIOMA" ,ELEVEN SPORT 1 HD (PL)
 http://127.0.0.1:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
-#EXTINF:-1 group-title="PRINCIPALES" ,ELEVEN SPORT 2 HD
+#EXTINF:-1 group-title="FUTBOL OTRO IDIOMA" ,ELEVEN SPORT 2 HD (PL)
 http://127.0.0.1:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
-#EXTINF:-1 group-title="PRINCIPALES" ,ELEVEN SPORT 3 HD
+#EXTINF:-1 group-title="FUTBOL OTRO IDIOMA" ,ELEVEN SPORT 3 HD (PL)
 http://127.0.0.1:6878/ace/getstream?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
-#EXTINF:-1 group-title="PRINCIPALES" ,ELEVEN SPORT 4 HD
+#EXTINF:-1 group-title="FUTBOL OTRO IDIOMA" ,ELEVEN SPORT 4 HD (PL)
 http://127.0.0.1:6878/ace/getstream?id=458a0ddd7d193f6d2750cd14d03a47f47a808e09&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
-#EXTINF:-1 group-title="PRINCIPALES" ,DAZN 1 (ALEMANIA)
+#EXTINF:-1 group-title="FUTBOL OTRO IDIOMA" ,DAZN 1 (ALEMANIA)
 http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
-#EXTINF:-1 group-title="PRINCIPALES" ,DAZN 2 (ALEMANIA)
+#EXTINF:-1 group-title="FUTBOL OTRO IDIOMA" ,DAZN 2 (ALEMANIA)
 http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
-
+#EXTINF:-1 group-title="FUTBOL OTRO IDIOMA" ,ELEVEN SPORT 1 (BE)
+http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="FUTBOL OTRO IDIOMA" ,ELEVEN SPORT 2 (BE)
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="FUTBOL OTRO IDIOMA" ,ELEVEN SPORT 3 (BE)
+http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="FUTBOL OTRO IDIOMA" ,ELEVEN SPORT 4 (BE)
+http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="FUTBOL OTRO IDIOMA" ,ELEVEN SPORT 5 (BE)
+http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="FUTBOL OTRO IDIOMA" ,ELEVEN SPORT 6 (BE)
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
