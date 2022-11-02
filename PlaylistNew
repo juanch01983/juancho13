@@ -71,3 +71,5 @@ http://127.0.0.1:6878/ace/getstream?id=145fc20a10f484f358cab2460d31280c1b3d18d1&
 http://127.0.0.1:6878/ace/getstream?id=617b030a073b33c19553d6b1e45a5c2175689bf7&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 #EXTINF:-1 group-title="FUTBOL OTRO IDIOMA" ,ARENA SPORT 6 (Croacia)
 http://127.0.0.1:6878/ace/getstream?id=fe85c2df2b7b398d3d0696335f86b656ebcc00f1&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="FUTBOL OTRO IDIOMA" ,Polsat Sport Premium 2 [PL]
+http://127.0.0.1:6878/ace/getstream?id=3147c586346aee00c005d1caa55204d38678c95f&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
