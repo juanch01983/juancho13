@@ -77,3 +77,11 @@ http://127.0.0.1:6878/ace/getstream?id=fe85c2df2b7b398d3d0696335f86b656ebcc00f1
 http://127.0.0.1:6878/ace/getstream?id=4ce55db7e578ff52a6e526cf610e477464b8a99f
 #EXTINF:-1 group-title="PRINCIPALES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-polsat-sport-premium-2-1473.png" ,Polsat Sport Premium 2 [PL]
 http://127.0.0.1:6878/ace/getstream?id=3147c586346aee00c005d1caa55204d38678c95f
+#EXTINF:-1 group-title="PRINCIPALES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tvp-sport-561.png" ,TVP SPORT [PL]
+http://127.0.0.1:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
+#EXTINF:-1 group-title="PRINCIPALES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tvp-1-548.png" ,TVP 1 [PL]
+http://127.0.0.1:6878/ace/getstream?id=d31d828052a432246e59e7d0d640bd55a64f1859
+#EXTINF:-1 group-title="PRINCIPALES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tvp-2-549.png" ,TVP 2 [PL]
+http://127.0.0.1:6878/ace/getstream?id=dad9d9e595bcfd251469ed58d380e53bfb46bb18
+#EXTINF:-1 group-title="PRINCIPALES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-zdf-148.png" ,ZDF [DE]
+http://127.0.0.1:6878/ace/getstream?id=c71fb593810ce837545e8d8b384e50a42c35a316
