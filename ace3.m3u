@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="PRINCIPALES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,Gol Mundial 1 1080
+#EXTINF:-1 group-title="PRINCIPALES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GMUNDI.png" ,Gol Mundial 1 1080
 http://127.0.0.1:6878/ace/getstream?id=4e7b21206691ecdb489d4b1334944236f065e762
-#EXTINF:-1 group-title="PRINCIPALES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,Gol Mundial 1 1080 op2
+#EXTINF:-1 group-title="PRINCIPALES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GMUNDI.png" ,Gol Mundial 1 1080 op2
 http://127.0.0.1:6878/ace/getstream?id=2bb8c4b59ab38574ecd271d60a0e2c48adb770d9
-#EXTINF:-1 group-title="PRINCIPALES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,Gol Mundial 1 1080 op3
+#EXTINF:-1 group-title="PRINCIPALES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GMUNDI.png" ,Gol Mundial 1 1080 op3
 http://127.0.0.1:6878/ace/getstream?id=2aab272d05089ce881538a1b3288d391de152d53
 #EXTINF:-1 group-title="PRINCIPALES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,M+ #Vamos 1080
 http://127.0.0.1:6878/ace/getstream?id=f559b9fea692a86e1a1de41cd1aa667e3fa02775
