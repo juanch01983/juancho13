@@ -87,3 +87,5 @@ http://127.0.0.1:6878/ace/getstream?id=d31d828052a432246e59e7d0d640bd55a64f1859
 http://127.0.0.1:6878/ace/getstream?id=dad9d9e595bcfd251469ed58d380e53bfb46bb18
 #EXTINF:-1 group-title="PRINCIPALES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-zdf-148.png" ,ZDF [DE]
 http://127.0.0.1:6878/ace/getstream?id=c71fb593810ce837545e8d8b384e50a42c35a316
+#EXTINF:-1 group-title="PRINCIPALES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-match-tv-732.png" ,MATCH TV [RU]
+http://127.0.0.1:6878/ace/getstream?id=52c7f0344c3ef6da2e08b42e038484685d17a533
