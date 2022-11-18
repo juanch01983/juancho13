@@ -91,3 +91,5 @@ http://127.0.0.1:6878/ace/getstream?id=c71fb593810ce837545e8d8b384e50a42c35a316
 http://127.0.0.1:6878/ace/getstream?id=52c7f0344c3ef6da2e08b42e038484685d17a533
 #EXTINF:-1 group-title="PRINCIPALES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-rtl-plus-1862.png" ,RTL+ (DE)
 http://127.0.0.1:6878/ace/getstream?id=bc9610c2cb92a71a5c17f357d66719fa1c054ced
+#EXTINF:-1 group-title="PRINCIPALES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-rtl-plus-1862.png" ,Smartbank (ES)
+http://127.0.0.1:6878/ace/getstream?id=7791ba828c0226d8f54cef1611889d29fb333247
