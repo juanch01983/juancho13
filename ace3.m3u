@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="PRINCIPALES" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-gol-mundial-2832.png" ,Gol Mundial Multi (ES)
+http://127.0.0.1:6878/ace/getstream?id=f5ac7190541e98bdf94dffc6e32b4acac8f15d7b
 #EXTINF:-1 group-title="PRINCIPALES" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M. Laliga Multi (ES) Op1
 http://127.0.0.1:6878/ace/getstream?id=1e0214a06000e6f4847dd30cdc2fb839527be862
 #EXTINF:-1 group-title="PRINCIPALES" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M. Laliga Multi (ES) Op2
