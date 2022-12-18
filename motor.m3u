@@ -11,7 +11,7 @@ http://127.0.0.1:6878/ace/getstream?id=684e5c085484e8ea79858713eeb7a3668baca29e
 http://127.0.0.1:6878/ace/getstream?id=df98650743f24a245c44cdf2851e57078f4c487a
 #EXTINF:-1 group-title="PRINCIPALES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" ,DAZN Laliga Multi (ES) Op2
 http://127.0.0.1:6878/ace/getstream?id=fee5612d57824b6e8db780f210ec54093056dc3a
-#EXTINF:-1 group-title="PRINCIPALES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL2.png" ,DAZN Laliga Multi 2 (ES)
+#EXTINF:-1 group-title="PRINCIPALES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL2.png" ,DAZN Laliga 2 Multi (ES)
 http://127.0.0.1:6878/ace/getstream?id=1124d4366348b76a755710c8d0d5728e39d0095c
 #EXTINF:-1 group-title="PRINCIPALES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" ,Smartbank (ES)
 http://127.0.0.1:6878/ace/getstream?id=7791ba828c0226d8f54cef1611889d29fb333247
