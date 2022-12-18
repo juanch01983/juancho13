@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="PRINCIPALES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,M. Laliga (ES)
+#EXTINF:-1 group-title="PRINCIPALES" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/main/MLIGA.bmp" ,M. Laliga (ES)
 http://127.0.0.1:6878/ace/getstream?id=c22bfcc2a70b2a3f447d9b30c52e617946b03888
 #EXTINF:-1 group-title="PRINCIPALES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,M. Laliga Multi (ES) Op1
 http://127.0.0.1:6878/ace/getstream?id=1e0214a06000e6f4847dd30cdc2fb839527be862
