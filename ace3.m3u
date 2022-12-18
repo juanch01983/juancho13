@@ -1,23 +1,31 @@
 #EXTM3U
-#EXTINF:-1 group-title="PRINCIPALES" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-gol-mundial-2832.png" ,La 1 (ES)
-http://127.0.0.1:6878/ace/getstream?id=6636a5c1055b5913ddcd0e87a5523f7d935350af
-#EXTINF:-1 group-title="PRINCIPALES" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M. Laliga Multi (ES) Op1
+#EXTINF:-1 group-title="PRINCIPALES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,M. Laliga (ES)
+http://127.0.0.1:6878/ace/getstream?id=c22bfcc2a70b2a3f447d9b30c52e617946b03888
+#EXTINF:-1 group-title="PRINCIPALES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,M. Laliga Multi (ES) Op1
 http://127.0.0.1:6878/ace/getstream?id=1e0214a06000e6f4847dd30cdc2fb839527be862
-#EXTINF:-1 group-title="PRINCIPALES" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M. Laliga Multi (ES) Op2
+#EXTINF:-1 group-title="PRINCIPALES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,M. Laliga Multi (ES) Op2
 http://127.0.0.1:6878/ace/getstream?id=684e5c085484e8ea79858713eeb7a3668baca29e
-#EXTINF:-1 group-title="PRINCIPALES" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-laliga-2784.png" ,DAZN Laliga Multi (ES) Op1
+#EXTINF:-1 group-title="PRINCIPALES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" ,M. Laliga 2 (ES)
+http://127.0.0.1:6878/ace/getstream?id=684e5c085484e8ea79858713eeb7a3668baca29e
+#EXTINF:-1 group-title="PRINCIPALES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" ,DAZN Laliga Multi (ES) Op1
 http://127.0.0.1:6878/ace/getstream?id=df98650743f24a245c44cdf2851e57078f4c487a
-#EXTINF:-1 group-title="PRINCIPALES" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-laliga-2784.png" ,DAZN Laliga Multi (ES) Op2
+#EXTINF:-1 group-title="PRINCIPALES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" ,DAZN Laliga Multi (ES) Op2
 http://127.0.0.1:6878/ace/getstream?id=fee5612d57824b6e8db780f210ec54093056dc3a
-#EXTINF:-1 group-title="PRINCIPALES" tvg-logo="https://i.ibb.co/cybDs0J/La-Liga-Smart-Bank.jpg" ,Smartbank (ES)
+#EXTINF:-1 group-title="PRINCIPALES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL2.png" ,DAZN Laliga Multi 2 (ES)
+http://127.0.0.1:6878/ace/getstream?id=1124d4366348b76a755710c8d0d5728e39d0095c
+#EXTINF:-1 group-title="PRINCIPALES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" ,Smartbank (ES)
 http://127.0.0.1:6878/ace/getstream?id=7791ba828c0226d8f54cef1611889d29fb333247
-#EXTINF:-1 group-title="PRINCIPALES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,M+ #Vamos 1080
+#EXTINF:-1 group-title="PRINCIPALES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" ,Smartbank 2 (ES)
+http://127.0.0.1:6878/ace/getstream?id=cf6249379184d88a61f9db617341c6b6e6abb342
+#EXTINF:-1 group-title="PRINCIPALES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" ,Smartbank 3 (ES)
+http://127.0.0.1:6878/ace/getstream?id=1104426e14b649eb23fee16698768544285de478
+#EXTINF:-1 group-title="PRINCIPALES" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/canal/VAMOSD.png" ,M+ #Vamos 1080
 http://127.0.0.1:6878/ace/getstream?id=f559b9fea692a86e1a1de41cd1aa667e3fa02775
-#EXTINF:-1 group-title="PRINCIPALES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones 1080
+#EXTINF:-1 group-title="PRINCIPALES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" ,M+ Liga de Campeones 1080
 http://127.0.0.1:6878/ace/getstream?id=045718bad2ddb4f03b1a420754a97a23ad8b493b
-#EXTINF:-1 group-title="PRINCIPALES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png" ,M+ Liga de Campeones 2 1080
+#EXTINF:-1 group-title="PRINCIPALES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" ,M+ Liga de Campeones 2 1080
 http://127.0.0.1:6878/ace/getstream?id=dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
-#EXTINF:-1 group-title="PRINCIPALES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png" ,M+ Liga de Campeones 3 1080
+#EXTINF:-1 group-title="PRINCIPALES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" ,M+ Liga de Campeones 3 1080
 http://127.0.0.1:6878/ace/getstream?id=ecf4ec41200785812c140e3d1050b412f1519fa7
 #EXTINF:-1 group-title="PRINCIPALES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 (ES)
 http://127.0.0.1:6878/ace/getstream?id=8b2e003ef51657196d2096aa84b9b21ae4bfb660
