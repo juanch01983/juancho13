@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
 #EXTINF:-1 group-title="PRINCIPALES" tvg-id="La 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" ,La 1 (ES)
-http://127.0.0.1:6878/ace/getstream?id=fd0a3f8874ba9bb0516b1e2b978827fdd6661842
+http://127.0.0.1:6878/ace/getstream?id=0550416ea6d64cf9669fced8ce9aea2713820f6e
 #EXTINF:-1 group-title="PRINCIPALES" tvg-id="Teledeporte" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" ,TDP (ES)
 http://127.0.0.1:6878/ace/getstream?id=5a272a468eaf25feb032e2c5d377c6276b2299c7
 #EXTINF:-1 group-title="PRINCIPALES" tvg-id="M+ LaLigaTV HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,M. Laliga Multi (ES) Op1
