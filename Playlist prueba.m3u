@@ -15,7 +15,7 @@ http://127.0.0.1:6878/ace/getstream?id=0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
 http://127.0.0.1:6878/ace/getstream?id=37d42d2b5d2278e6bb5810329a5f220867b3cf0c
 #EXTINF:-1 group-title="PRINCIPALES" tvg-id="LaLiga SmartbankTV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" ,Smartbank (ES)
 http://127.0.0.1:6878/ace/getstream?id=7791ba828c0226d8f54cef1611889d29fb333247
-#EXTINF:-1 group-title="PRINCIPALES" tvg-id="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" ,Smartbank 2 (ES)
+#EXTINF:-1 group-title="PRINCIPALES" tvg-id="LaLiga SmartbankTV M2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" ,Smartbank 2 (ES)
 http://127.0.0.1:6878/ace/getstream?id=cf6249379184d88a61f9db617341c6b6e6abb342
 #EXTINF:-1 group-title="PRINCIPALES" tvg-id="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" ,Smartbank 3 (ES)
 http://127.0.0.1:6878/ace/getstream?id=1104426e14b649eb23fee16698768544285de478
