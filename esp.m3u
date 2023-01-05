@@ -1,43 +1,43 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
-#EXTINF:-1 group-title="PRINCIPALES" tvg-id="La 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" ,La 1 (ES)
+#EXTINF:-1 group-title="PRINCIPALES" tvg-id="La 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201%20HD.png" ,La 1 (ES)
 http://127.0.0.1:6878/ace/getstream?id=fd0a3f8874ba9bb0516b1e2b978827fdd6661842
-#EXTINF:-1 group-title="PRINCIPALES" tvg-id="Teledeporte" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" ,TDP (ES)
+#EXTINF:-1 group-title="PRINCIPALES" tvg-id="Teledeporte" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" ,TDP (ES)
 http://127.0.0.1:6878/ace/getstream?id=5a272a468eaf25feb032e2c5d377c6276b2299c7
-#EXTINF:-1 group-title="PRINCIPALES" tvg-id="M+ LaLigaTV HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,M. Laliga Multi (ES) Op1
+#EXTINF:-1 group-title="PRINCIPALES" tvg-id="M+ LaLigaTV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLigaTV%20HD.png" ,M. Laliga Multi (ES) Op1
 http://127.0.0.1:6878/ace/getstream?id=d47addf5e467cbf102ba759600303c21efb1deeb
-#EXTINF:-1 group-title="PRINCIPALES" tvg-id="M+ LaLigaTV HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,M. Laliga Multi (ES) Op2
+#EXTINF:-1 group-title="PRINCIPALES" tvg-id="M+ LaLigaTV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLigaTV%20HD.png" ,M. Laliga Multi (ES) Op2
 http://127.0.0.1:6878/ace/getstream?id=1e0214a06000e6f4847dd30cdc2fb839527be862
-#EXTINF:-1 group-title="PRINCIPALES" tvg-id="M+ LaLigaTV 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" ,M. Laliga 2 (ES)
+#EXTINF:-1 group-title="PRINCIPALES" tvg-id="M+ LaLigaTV 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLigaTV%202%20HD.png" ,M. Laliga 2 (ES)
 http://127.0.0.1:6878/ace/getstream?id=684e5c085484e8ea79858713eeb7a3668baca29e
-#EXTINF:-1 group-title="PRINCIPALES" tvg-id="DAZN LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" ,DAZN Laliga Multi (ES) Op1
+#EXTINF:-1 group-title="PRINCIPALES" tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20HD.png" ,DAZN Laliga Multi (ES) Op1
 http://127.0.0.1:6878/ace/getstream?id=7264961f63dc9dc6ef7acee7371f7a76b6a02061
-#EXTINF:-1 group-title="PRINCIPALES" tvg-id="DAZN LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" ,DAZN Laliga Multi (ES) Op2
+#EXTINF:-1 group-title="PRINCIPALES" tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20HD.png" ,DAZN Laliga Multi (ES) Op2
 http://127.0.0.1:6878/ace/getstream?id=0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
-#EXTINF:-1 group-title="PRINCIPALES" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL2.png" ,DAZN Laliga 2 Multi (ES)
+#EXTINF:-1 group-title="PRINCIPALES" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202%20HD.png" ,DAZN Laliga 2 Multi (ES)
 http://127.0.0.1:6878/ace/getstream?id=37d42d2b5d2278e6bb5810329a5f220867b3cf0c
-#EXTINF:-1 group-title="PRINCIPALES" tvg-id="LaLiga SmartbankTV HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" ,Smartbank (ES)
+#EXTINF:-1 group-title="PRINCIPALES" tvg-id="LaLiga SmartbankTV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20SmartbankTV%20HD.png" ,Smartbank (ES)
 http://127.0.0.1:6878/ace/getstream?id=7791ba828c0226d8f54cef1611889d29fb333247
-#EXTINF:-1 group-title="PRINCIPALES" tvg-id="LaLiga SmartbankTV M2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" ,Smartbank 2 (ES)
+#EXTINF:-1 group-title="PRINCIPALES" tvg-id="LaLiga SmartbankTV M2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20SmartbankTV%20M2%20HD.png" ,Smartbank 2 (ES)
 http://127.0.0.1:6878/ace/getstream?id=cf6249379184d88a61f9db617341c6b6e6abb342
-#EXTINF:-1 group-title="PRINCIPALES" tvg-id="LaLiga SmartbankTV M3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" ,Smartbank 3 (ES)
+#EXTINF:-1 group-title="PRINCIPALES" tvg-id="LaLiga SmartbankTV M3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20SmartbankTV%20M3%20HD.png" ,Smartbank 3 (ES)
 http://127.0.0.1:6878/ace/getstream?id=1104426e14b649eb23fee16698768544285de478
-#EXTINF:-1 group-title="PRINCIPALES" tvg-id="M+ #Vamos HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/canal/VAMOSD.png" ,M+ #Vamos 1080
+#EXTINF:-1 group-title="PRINCIPALES" tvg-id="M+ #Vamos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20%23Vamos%20HD.png" ,M+ #Vamos 1080
 http://127.0.0.1:6878/ace/getstream?id=f559b9fea692a86e1a1de41cd1aa667e3fa02775
-#EXTINF:-1 group-title="PRINCIPALES" tvg-id="M+ Liga de Campeones" tvg-name="M+ Liga de Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" ,M+ Liga de Campeones 1080
+#EXTINF:-1 group-title="PRINCIPALES" tvg-id="M+ Liga de Campeones" tvg-name="M+ Liga de Campeones" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%20HD.png" ,M+ Liga de Campeones 1080
 http://127.0.0.1:6878/ace/getstream?id=045718bad2ddb4f03b1a420754a97a23ad8b493b
 #EXTINF:-1 group-title="PRINCIPALES" tvg-id="M+ Liga de Campeones 2" tvg-name="M+ Liga de Campeones 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" ,M+ Liga de Campeones 2 1080
 http://127.0.0.1:6878/ace/getstream?id=dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
-#EXTINF:-1 group-title="PRINCIPALES" tvg-id="M+ Liga de Campeones 3" tvg-name="M+ Liga de Campeones 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" ,M+ Liga de Campeones 3 1080
+#EXTINF:-1 group-title="PRINCIPALES" tvg-id="M+ Liga de Campeones 3" tvg-name="M+ Liga de Campeones 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203%20HD.png" ,M+ Liga de Campeones 3 1080
 http://127.0.0.1:6878/ace/getstream?id=ecf4ec41200785812c140e3d1050b412f1519fa7
-#EXTINF:-1 group-title="PRINCIPALES" tvg-id="M+ Liga de Campeones 4" tvg-name="M+ Liga de Campeones 4" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP3.png" ,M+ Liga de Campeones 4 FHD
+#EXTINF:-1 group-title="PRINCIPALES" tvg-id="M+ Liga de Campeones 4" tvg-name="M+ Liga de Campeones 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" ,M+ Liga de Campeones 4 FHD
 http://127.0.0.1:6878/ace/getstream?id=1a1b528109edead1904e3dbff575637a452dd1fa
-#EXTINF:-1 group-title="PRINCIPALES" tvg-id="M+ Liga de Campeones 5" tvg-name="M+ Liga de Campeones 5" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP4.png" ,M+ Liga de Campeones 5 1080
+#EXTINF:-1 group-title="PRINCIPALES" tvg-id="M+ Liga de Campeones 5" tvg-name="M+ Liga de Campeones 5" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png" ,M+ Liga de Campeones 5 1080
 http://127.0.0.1:6878/ace/getstream?id=4b4a77f005ea45e57276ff9d90c3830b3c59010d
-#EXTINF:-1 group-title="PRINCIPALES" tvg-id="DAZN 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 (ES)
+#EXTINF:-1 group-title="PRINCIPALES" tvg-id="DAZN 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20HD.png" ,DAZN 1 (ES)
 http://127.0.0.1:6878/ace/getstream?id=8b2e003ef51657196d2096aa84b9b21ae4bfb660
-#EXTINF:-1 group-title="PRINCIPALES" tvg-id="DAZN 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" ,DAZN 2 (ES)
+#EXTINF:-1 group-title="PRINCIPALES" tvg-id="DAZN 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202%20HD.png" ,DAZN 2 (ES)
 http://127.0.0.1:6878/ace/getstream?id=3f68c1aa02094e253fd8446c0c307089cecf2a1e
-#EXTINF:-1 group-title="PRINCIPALES" tvg-id="DAZN 3 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png" ,DAZN 3 (ES)
+#EXTINF:-1 group-title="PRINCIPALES" tvg-id="DAZN 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203%20HD.png" ,DAZN 3 (ES)
 http://127.0.0.1:6878/ace/getstream?id=bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
-#EXTINF:-1 group-title="PRINCIPALES" tvg-id="DAZN 4 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-4-es-2525.png" ,DAZN 4 (ES)
+#EXTINF:-1 group-title="PRINCIPALES" tvg-id="DAZN 4 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204%20HD.png" ,DAZN 4 (ES)
 http://127.0.0.1:6878/ace/getstream?id=149a38e333de920753f1388c43247283bdb05f5b
