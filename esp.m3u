@@ -3,6 +3,8 @@
 http://127.0.0.1:6878/ace/getstream?id=fd0a3f8874ba9bb0516b1e2b978827fdd6661842
 #EXTINF:-1 group-title="PRINCIPALES" tvg-id="Teledeporte" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" ,TDP (ES)
 http://127.0.0.1:6878/ace/getstream?id=5a272a468eaf25feb032e2c5d377c6276b2299c7
+#EXTINF:-1 group-title="PRINCIPALES" tvg-id="LaLigaTV Bar HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLigaTV%20Bar%20HD.png" ,LaLigaTV Bar HD (ES)
+http://127.0.0.1:6878/ace/getstream?id=ed2a15319345fb0739590faf88d8be4cb1663bf3
 #EXTINF:-1 group-title="PRINCIPALES" tvg-id="M+ LaLigaTV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLigaTV%20HD.png" ,M. Laliga Multi (ES) Op1
 http://127.0.0.1:6878/ace/getstream?id=d47addf5e467cbf102ba759600303c21efb1deeb
 #EXTINF:-1 group-title="PRINCIPALES" tvg-id="M+ LaLigaTV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLigaTV%20HD.png" ,M. Laliga Multi (ES) Op2
