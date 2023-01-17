@@ -17,7 +17,9 @@ http://127.0.0.1:6878/ace/getstream?id=0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
 http://127.0.0.1:6878/ace/getstream?id=7791ba828c0226d8f54cef1611889d29fb333247
 #EXTINF:-1 group-title="PRINCIPALES" tvg-id="M+ #Vamos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20%23Vamos%20HD.png" ,M+ #Vamos
 http://127.0.0.1:6878/ace/getstream?id=f559b9fea692a86e1a1de41cd1aa667e3fa02775
-#EXTINF:-1 group-title="PRINCIPALES" tvg-id="M+ Liga de Campeones" tvg-name="M+ Liga de Campeones" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%20HD.png" ,M+ L.Campeones
+#EXTINF:-1 group-title="PRINCIPALES" tvg-id="M+ Liga de Campeones" tvg-name="M+ Liga de Campeones" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%20HD.png" ,M+ L.Campeones Op1
+http://127.0.0.1:6878/ace/getstream?id=2bac25f323be1de8208d6554337c2c8256bc32bc
+#EXTINF:-1 group-title="PRINCIPALES" tvg-id="M+ Liga de Campeones" tvg-name="M+ Liga de Campeones" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%20HD.png" ,M+ L.Campeones Op2
 http://127.0.0.1:6878/ace/getstream?id=045718bad2ddb4f03b1a420754a97a23ad8b493b
 #EXTINF:-1 group-title="PRINCIPALES" tvg-id="DAZN 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20HD.png" ,DAZN 1
 http://127.0.0.1:6878/ace/getstream?id=8b2e003ef51657196d2096aa84b9b21ae4bfb660
@@ -27,12 +29,6 @@ http://127.0.0.1:6878/ace/getstream?id=3f68c1aa02094e253fd8446c0c307089cecf2a1e
 http://127.0.0.1:6878/ace/getstream?id=bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
 #EXTINF:-1 group-title="PRINCIPALES" tvg-id="DAZN 4 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204%20HD.png" ,DAZN 4
 http://127.0.0.1:6878/ace/getstream?id=149a38e333de920753f1388c43247283bdb05f5b
-#EXTINF:-1 group-title="PRINCIPALES" tvg-id="Eurosport 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201%20HD.png" ,Eurosport 1
-http://127.0.0.1:6878/ace/getstream?id=c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
-#EXTINF:-1 group-title="PRINCIPALES" tvg-id="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202%20HD.png" ,Eurosport 2
-http://127.0.0.1:6878/ace/getstream?id=d6622ca93e54e493a6910248f8fe1f03aa85bf01
-#EXTINF:-1 group-title="PRINCIPALES" tvg-id="M+ Deportes HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%20HD.png" ,M+ Deportes
-http://127.0.0.1:6878/ace/getstream?id=8f75fa54b498ce6889068f56f7a343b72bbcfcc0
 #EXTINF:-1 group-title="SECUNDARIOS" tvg-id="M+ LaLigaTV 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLigaTV%202%20HD.png" ,M. Laliga 2
 http://127.0.0.1:6878/ace/getstream?id=684e5c085484e8ea79858713eeb7a3668baca29e
 #EXTINF:-1 group-title="SECUNDARIOS" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202%20HD.png" ,DAZN Laliga 2
@@ -49,11 +45,3 @@ http://127.0.0.1:6878/ace/getstream?id=ecf4ec41200785812c140e3d1050b412f1519fa7
 http://127.0.0.1:6878/ace/getstream?id=1a1b528109edead1904e3dbff575637a452dd1fa
 #EXTINF:-1 group-title="SECUNDARIOS" tvg-id="M+ Liga de Campeones 5" tvg-name="M+ Liga de Campeones 5" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png" ,M+ L.Campeones 5
 http://127.0.0.1:6878/ace/getstream?id=4b4a77f005ea45e57276ff9d90c3830b3c59010d
-#EXTINF:-1 group-title="SECUNDARIOS" tvg-id="M+ Deportes 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202%20HD.png" ,M+ Deportes 2
-http://127.0.0.1:6878/ace/getstream?id=f4cbec08c5a2f3bdbb7a0b8693a3936cd93ae2b5
-#EXTINF:-1 group-title="SECUNDARIOS" tvg-id="M+ Deportes 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%203%20HD.png" ,M+ Deportes 3
-http://127.0.0.1:6878/ace/getstream?id=ecf2096f9f612a70638d644fb621472a3ddaeb20
-#EXTINF:-1 group-title="SECUNDARIOS" tvg-id="M+ Deportes 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%204.png" ,M+ Deportes 4
-http://127.0.0.1:6878/ace/getstream?id=08db089084ddbaceba7c239817407bf99708b9ad
-#EXTINF:-1 group-title="SECUNDARIOS" tvg-id="M+ Deportes 5" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%205.png" ,M+ Deportes 5
-http://127.0.0.1:6878/ace/getstream?id=ada5b10ab38ea2ad9f4fc8ccacad89d70af48c3c
