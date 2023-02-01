@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/main/13b3d0faef904c2f.jpg" ,Varios Eventos (ID Calidad Original)
-http://127.0.0.1:6878/ace/getstream?id=0550416ea6d64cf9669fced8ce9aea2713820f6e
+http://127.0.0.1:6878/ace/getstream?id=16150dafbbd4515a8b539a8e21e0f083f86416da
 #EXTINF:-1 group-title="PRINCIPALES" tvg-id="La 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201%20HD.png" ,La 1 
 http://127.0.0.1:6878/ace/getstream?id=fd0a3f8874ba9bb0516b1e2b978827fdd6661842
 #EXTINF:-1 group-title="PRINCIPALES" tvg-id="Teledeporte" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte%20HD.png" ,Teledeportes
