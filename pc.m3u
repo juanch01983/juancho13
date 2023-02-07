@@ -1,8 +1,4 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
-#EXTINF:-1 group-title="PC" tvg-id="La 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201%20HD.png" ,La 1 
-http://192.168.1.85:6878/ace/getstream?id=fd0a3f8874ba9bb0516b1e2b978827fdd6661842
-#EXTINF:-1 group-title="PC" tvg-id="Teledeporte" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte%20HD.png" ,Teledeportes
-http://192.168.1.85:6878/ace/getstream?id=5a272a468eaf25feb032e2c5d377c6276b2299c7
 #EXTINF:-1 group-title="PC" tvg-id="M+ LaLigaTV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLigaTV%20HD.png" ,M. Laliga Op1
 http://192.168.1.85:6878/ace/getstream?id=1e0214a06000e6f4847dd30cdc2fb839527be862
 #EXTINF:-1 group-title="PC" tvg-id="M+ LaLigaTV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLigaTV%20HD.png" ,M. Laliga Op2
@@ -37,3 +33,9 @@ http://192.168.1.85:6878/ace/getstream?id=ecf4ec41200785812c140e3d1050b412f1519f
 http://192.168.1.85:6878/ace/getstream?id=1a1b528109edead1904e3dbff575637a452dd1fa
 #EXTINF:-1 group-title="PC" tvg-id="M+ Liga de Campeones 5" tvg-name="M+ Liga de Campeones 5" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png" ,M+ L.Campeones 5
 http://192.168.1.85:6878/ace/getstream?id=4b4a77f005ea45e57276ff9d90c3830b3c59010d
+#EXTINF:-1 group-title="PC" tvg-id="La 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201%20HD.png" ,La 1 
+http://192.168.1.85:6878/ace/getstream?id=fd0a3f8874ba9bb0516b1e2b978827fdd6661842
+#EXTINF:-1 group-title="PC" tvg-id="Teledeporte" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte%20HD.png" ,Teledeportes
+http://192.168.1.85:6878/ace/getstream?id=5a272a468eaf25feb032e2c5d377c6276b2299c7
+#EXTINF:-1 group-title="PC" tvg-id="Telecinco HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telecinco%20HD.png" ,Telecinco
+http://192.168.1.85:6878/ace/getstream?id=cbf281d5e481697aa4184fe1de5e069928c95057
