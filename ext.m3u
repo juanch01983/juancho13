@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://epg.ovh/plar.xml"
-#EXTINF:-1 group-title="EXTRANJEROS" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sport-1-631.png" ,ELEVEN SPORT 1 4K (PL)
+#EXTINF:-1 group-title="EXTRANJEROS" tvg-id="Eleven Sports 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sport-1-631.png" ,ELEVEN SPORT 1 4K (PL)
 http://127.0.0.1:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
-#EXTINF:-1 group-title="EXTRANJEROS" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sport-1-631.png" ,ELEVEN SPORT 1 HD (PL)
+#EXTINF:-1 group-title="EXTRANJEROS" tvg-id="Eleven Sports 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sport-1-631.png" ,ELEVEN SPORT 1 HD (PL)
 http://127.0.0.1:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
 #EXTINF:-1 group-title="EXTRANJEROS" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-pl-eleven-sports-2-633.png" ,ELEVEN SPORT 2 HD (PL)
 http://127.0.0.1:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
