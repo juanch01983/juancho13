@@ -1,3 +1,4 @@
+#EXTM3U url-tvg="https://epg.ovh/plar.xml"
 #EXTINF:-1 group-title="EXTRANJEROS" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sport-1-631.png" ,ELEVEN SPORT 1 4K (PL)
 http://127.0.0.1:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
 #EXTINF:-1 group-title="EXTRANJEROS" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sport-1-631.png" ,ELEVEN SPORT 1 HD (PL)
