@@ -1,0 +1,5 @@
+#EXTM3U url-tvg="https://xmltv.info/de/epg.xml"
+#EXTINF:-1 group-title="EXTRANJEROS" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-deutschland-2703.png" ,DAZN 1 (DE)
+http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
+#EXTINF:-1 group-title="EXTRANJEROS" tvg-id="DAZN 2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-deutschland-2704.png" ,DAZN 2 (DE)
+http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
