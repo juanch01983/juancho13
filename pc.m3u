@@ -39,3 +39,7 @@ http://192.168.1.85:6878/ace/getstream?id=fd0a3f8874ba9bb0516b1e2b978827fdd66618
 http://192.168.1.85:6878/ace/getstream?id=5a272a468eaf25feb032e2c5d377c6276b2299c7
 #EXTINF:-1 group-title="PC" tvg-id="Telecinco HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telecinco%20HD.png" ,Telecinco
 http://192.168.1.85:6878/ace/getstream?id=cbf281d5e481697aa4184fe1de5e069928c95057
+#EXTINF:-1 group-title="EXTRANJEROS" tvg-id="Polsat Sport Premium 1" tvg-logo="https://epg.ovh/logo/Polsat+Sport+Premium+1.png" ,Polsat Sport Premium 1 [PL]
+http://192.168.1.85:6878/ace/getstream?id=4ce55db7e578ff52a6e526cf610e477464b8a99f
+#EXTINF:-1 group-title="EXTRANJEROS" tvg-id="Polsat Sport Premium 2" tvg-logo="https://epg.ovh/logo/Polsat+Sport+Premium+2.png" ,Polsat Sport Premium 2 [PL]
+http://192.168.1.85:6878/ace/getstream?id=3147c586346aee00c005d1caa55204d38678c95f
