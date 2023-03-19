@@ -18,7 +18,7 @@ http://192.168.1.85:6878/ace/getstream?id=045718bad2ddb4f03b1a420754a97a23ad8b49
 #EXTINF:-1 group-title="PC" tvg-id="DAZN 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20HD.png" ,DAZN 1
 http://192.168.1.85:6878/ace/getstream?id=8b2e003ef51657196d2096aa84b9b21ae4bfb660
 #EXTINF:-1 group-title="PC" tvg-id="M+ LaLigaTV 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLigaTV%202%20HD.png" ,M. Laliga 2
-http://192.168.1.85:6878/ace/getstream?id=684e5c085484e8ea79858713eeb7a3668baca29e
+http://192.168.1.85:6878/ace/getstream?id=e5dd056bbcbf637c7fa314288356a8024e426f18
 #EXTINF:-1 group-title="PC" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202%20HD.png" ,DAZN Laliga 2
 http://192.168.1.85:6878/ace/getstream?id=37d42d2b5d2278e6bb5810329a5f220867b3cf0c
 #EXTINF:-1 group-title="PC" tvg-id="LaLiga SmartbankTV M2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20SmartbankTV%20M2%20HD.png" ,Smartbank 2
