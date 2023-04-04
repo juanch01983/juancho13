@@ -21,7 +21,7 @@ http://127.0.0.1:6878/ace/getstream?id=7791ba828c0226d8f54cef1611889d29fb333247
 http://127.0.0.1:6878/ace/getstream?id=cf6249379184d88a61f9db617341c6b6e6abb342
 #EXTINF:-1 group-title="CANALES ESPAÑA" tvg-id="LaLiga SmartbankTV M3 HD" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/main/smart3.png" ,Smartbank 3
 http://127.0.0.1:6878/ace/getstream?id=1104426e14b649eb23fee16698768544285de478
-#EXTINF:-1 group-title="CANALES ESPAÑA" tvg-id="M+ #Vamos HD" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/main/vamos.png" ,M+ #Vamos
+#EXTINF:-1 group-title="CANALES ESPAÑA" tvg-id="M+ #Vamos HD" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/main/vamos1.png" ,M+ #Vamos
 http://127.0.0.1:6878/ace/getstream?id=f559b9fea692a86e1a1de41cd1aa667e3fa02775
 #EXTINF:-1 group-title="CANALES ESPAÑA" tvg-id="M+ Liga de Campeones" tvg-name="M+ Liga de Campeones" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/main/Campeones.png" ,M+ L.Camp. Op1
 http://127.0.0.1:6878/ace/getstream?id=2bac25f323be1de8208d6554337c2c8256bc32bc
