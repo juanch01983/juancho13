@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
 #EXTINF:-1 group-title="CANALES ESPAÑA" tvg-id="Teledeporte" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/main/tdp.png" ,Teledeportes
 http://127.0.0.1:6878/ace/getstream?id=5a272a468eaf25feb032e2c5d377c6276b2299c7
-#EXTINF:-1 group-title="CANALES ESPAÑA" tvg-id="M+ #0 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MV3.png" ,M+ #0
+#EXTINF:-1 group-title="CANALES ESPAÑA" tvg-id="M+ #0 HD" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/main/0.png" ,M+ #0
 http://127.0.0.1:6878/ace/getstream?id=864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
 #EXTINF:-1 group-title="CANALES ESPAÑA" tvg-id="M+ LaLigaTV HD" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/main/Mliga.png" ,M. LaLіgaTV Op1
 http://127.0.0.1:6878/ace/getstream?id=1e0214a06000e6f4847dd30cdc2fb839527be862
@@ -17,29 +17,29 @@ http://127.0.0.1:6878/ace/getstream?id=0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
 http://127.0.0.1:6878/ace/getstream?id=37d42d2b5d2278e6bb5810329a5f220867b3cf0c
 #EXTINF:-1 group-title="CANALES ESPAÑA" tvg-id="LaLiga SmartbankTV HD" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/main/smatbank.png" ,Smartbank
 http://127.0.0.1:6878/ace/getstream?id=7791ba828c0226d8f54cef1611889d29fb333247
-#EXTINF:-1 group-title="CANALES ESPAÑA" tvg-id="LaLiga SmartbankTV M2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" ,Smartbank 2
+#EXTINF:-1 group-title="CANALES ESPAÑA" tvg-id="LaLiga SmartbankTV M2 HD" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/main/smart2.png" ,Smartbank 2
 http://127.0.0.1:6878/ace/getstream?id=cf6249379184d88a61f9db617341c6b6e6abb342
-#EXTINF:-1 group-title="CANALES ESPAÑA" tvg-id="LaLiga SmartbankTV M3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" ,Smartbank 3
+#EXTINF:-1 group-title="CANALES ESPAÑA" tvg-id="LaLiga SmartbankTV M3 HD" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/main/smart3.png" ,Smartbank 3
 http://127.0.0.1:6878/ace/getstream?id=1104426e14b649eb23fee16698768544285de478
-#EXTINF:-1 group-title="CANALES ESPAÑA" tvg-id="M+ #Vamos HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png" ,M+ #Vamos
+#EXTINF:-1 group-title="CANALES ESPAÑA" tvg-id="M+ #Vamos HD" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/main/vamos.png" ,M+ #Vamos
 http://127.0.0.1:6878/ace/getstream?id=f559b9fea692a86e1a1de41cd1aa667e3fa02775
 #EXTINF:-1 group-title="CANALES ESPAÑA" tvg-id="M+ Liga de Campeones" tvg-name="M+ Liga de Campeones" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/main/Campeones.png" ,M+ L.Camp. Op1
 http://127.0.0.1:6878/ace/getstream?id=2bac25f323be1de8208d6554337c2c8256bc32bc
 #EXTINF:-1 group-title="CANALES ESPAÑA" tvg-id="M+ Liga de Campeones" tvg-name="M+ Liga de Campeones" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/main/Campeones.png" ,M+ L.Camp. Op2
 http://127.0.0.1:6878/ace/getstream?id=045718bad2ddb4f03b1a420754a97a23ad8b493b
-#EXTINF:-1 group-title="CANALES ESPAÑA" tvg-id="M+ Liga de Campeones 2" tvg-name="M+ Liga de Campeones 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" ,M+ L.Camp. 2
+#EXTINF:-1 group-title="CANALES ESPAÑA" tvg-id="M+ Liga de Campeones 2" tvg-name="M+ Liga de Campeones 2" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/main/camp2.png" ,M+ L.Camp. 2
 http://127.0.0.1:6878/ace/getstream?id=dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
-#EXTINF:-1 group-title="CANALES ESPAÑA" tvg-id="M+ Liga de Campeones 3" tvg-name="M+ Liga de Campeones 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" ,M+ L.Camp. 3
+#EXTINF:-1 group-title="CANALES ESPAÑA" tvg-id="M+ Liga de Campeones 3" tvg-name="M+ Liga de Campeones 3" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/main/camp3.png" ,M+ L.Camp. 3
 http://127.0.0.1:6878/ace/getstream?id=ecf4ec41200785812c140e3d1050b412f1519fa7
-#EXTINF:-1 group-title="CANALES ESPAÑA" tvg-id="M+ Liga de Campeones 4" tvg-name="M+ Liga de Campeones 4" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP3.png" ,M+ L.Camp. 4
+#EXTINF:-1 group-title="CANALES ESPAÑA" tvg-id="M+ Liga de Campeones 4" tvg-name="M+ Liga de Campeones 4" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/main/camp4.png" ,M+ L.Camp. 4
 http://127.0.0.1:6878/ace/getstream?id=1a1b528109edead1904e3dbff575637a452dd1fa
-#EXTINF:-1 group-title="CANALES ESPAÑA" tvg-id="M+ Liga de Campeones 5" tvg-name="M+ Liga de Campeones 5" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP4.png" ,M+ L.Camp. 5
+#EXTINF:-1 group-title="CANALES ESPAÑA" tvg-id="M+ Liga de Campeones 5" tvg-name="M+ Liga de Campeones 5" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/main/camp5.png" ,M+ L.Camp. 5
 http://127.0.0.1:6878/ace/getstream?id=4b4a77f005ea45e57276ff9d90c3830b3c59010d
-#EXTINF:-1 group-title="CANALES ESPAÑA" tvg-id="DAZN 1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" ,DAZN 1
+#EXTINF:-1 group-title="CANALES ESPAÑA" tvg-id="DAZN 1" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/main/dz1.png" ,DAZN 1
 http://127.0.0.1:6878/ace/getstream?id=8b2e003ef51657196d2096aa84b9b21ae4bfb660
-#EXTINF:-1 group-title="CANALES ESPAÑA" tvg-id="DAZN 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png" ,DAZN 2
+#EXTINF:-1 group-title="CANALES ESPAÑA" tvg-id="DAZN 2" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/main/dz2.png" ,DAZN 2
 http://127.0.0.1:6878/ace/getstream?id=3f68c1aa02094e253fd8446c0c307089cecf2a1e
-#EXTINF:-1 group-title="CANALES ESPAÑA" tvg-id="DAZN 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN3.png" ,DAZN 3
+#EXTINF:-1 group-title="CANALES ESPAÑA" tvg-id="DAZN 3" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/main/dz3.png" ,DAZN 3
 http://127.0.0.1:6878/ace/getstream?id=bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
-#EXTINF:-1 group-title="CANALES ESPAÑA" tvg-id="DAZN 4" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN4.png" ,DAZN 4
+#EXTINF:-1 group-title="CANALES ESPAÑA" tvg-id="DAZN 4" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/main/dz4.png" ,DAZN 4
 http://127.0.0.1:6878/ace/getstream?id=149a38e333de920753f1388c43247283bdb05f5b
