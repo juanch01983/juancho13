@@ -5,7 +5,7 @@ http://127.0.0.1:6878/ace/getstream?id=5a272a468eaf25feb032e2c5d377c6276b2299c7
 http://127.0.0.1:6878/ace/getstream?id=864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
 #EXTINF:-1 group-title="CANALES ESPAÑA" tvg-id="M+ LaLigaTV HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,M. LaLіgaTV Op1
 http://127.0.0.1:6878/ace/getstream?id=1e0214a06000e6f4847dd30cdc2fb839527be862
-#EXTINF:-1 group-title="CANALES ESPAÑA" tvg-id="M+ LaLigaTV HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,M. LaLіgaTV Op2
+#EXTINF:-1 group-title="CANALES ESPAÑA" tvg-id="M+ LaLigaTV HD" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/main/oie_4174926UhYNQmHN.png" ,M. LaLіgaTV Op2
 http://127.0.0.1:6878/ace/getstream?id=d47addf5e467cbf102ba759600303c21efb1deeb
 #EXTINF:-1 group-title="CANALES ESPAÑA" tvg-id="M+ LaLigaTV 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" ,M. LaLіgaTV 2
 http://127.0.0.1:6878/ace/getstream?id=37d42d2b5d2278e6bb5810329a5f220867b3cf0c
