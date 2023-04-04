@@ -23,7 +23,7 @@ http://127.0.0.1:6878/ace/getstream?id=cf6249379184d88a61f9db617341c6b6e6abb342
 http://127.0.0.1:6878/ace/getstream?id=1104426e14b649eb23fee16698768544285de478
 #EXTINF:-1 group-title="CANALES ESPAÑA" tvg-id="M+ #Vamos HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png" ,M+ #Vamos
 http://127.0.0.1:6878/ace/getstream?id=f559b9fea692a86e1a1de41cd1aa667e3fa02775
-#EXTINF:-1 group-title="CANALES ESPAÑA" tvg-id="M+ Liga de Campeones" tvg-name="M+ Liga de Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" ,M+ L.Camp. Op1
+#EXTINF:-1 group-title="CANALES ESPAÑA" tvg-id="M+ Liga de Campeones" tvg-name="M+ Liga de Campeones" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/main/oie_4174926UhYNQmHN.png" ,M+ L.Camp. Op1
 http://127.0.0.1:6878/ace/getstream?id=2bac25f323be1de8208d6554337c2c8256bc32bc
 #EXTINF:-1 group-title="CANALES ESPAÑA" tvg-id="M+ Liga de Campeones" tvg-name="M+ Liga de Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" ,M+ L.Camp. Op2
 http://127.0.0.1:6878/ace/getstream?id=045718bad2ddb4f03b1a420754a97a23ad8b493b
