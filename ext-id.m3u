@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://epg.ovh/pl.xml"
 #EXTINF:-1 group-title="EXTRANJEROS" tvg-id="Eleven Sports 1" tvg-logo="https://epg.ovh/logo/Eleven+Sports+4K.png" ,ELEVEN SPORT 1 4K (PL)
-plugin://script.module.horus?action=play&id=7ac2d74ef6df9d15012992d7e0e635a95f58c652&title=&iconimage=&plot=
+plugin://script.module.horus?action=play&id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
 #EXTINF:-1 group-title="EXTRANJEROS" tvg-id="Eleven Sports 1" tvg-logo="https://epg.ovh/logo/Eleven+Sports+1.png" ,ELEVEN SPORT 1 HD (PL)
 acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00
 #EXTINF:-1 group-title="EXTRANJEROS" tvg-id="Eleven Sports 2" tvg-logo="https://epg.ovh/logo/Eleven+Sports+2.png" ,ELEVEN SPORT 2 HD (PL)
