@@ -39,7 +39,7 @@ http://127.0.0.1:6878/ace/getstream?id=4b4a77f005ea45e57276ff9d90c3830b3c59010d
 http://127.0.0.1:6878/ace/getstream?id=8b2e003ef51657196d2096aa84b9b21ae4bfb660
 #EXTINF:-1 group-title="CANALES ESPAÑA" tvg-id="DAZN 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png" ,DAZN 2
 http://127.0.0.1:6878/ace/getstream?id=3f68c1aa02094e253fd8446c0c307089cecf2a1e
-#EXTINF:-1 group-title="CANALES ESPAÑA" tvg-id="DAZN 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M3SD.png" ,DAZN 3
+#EXTINF:-1 group-title="CANALES ESPAÑA" tvg-id="DAZN 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN3.png" ,DAZN 3
 http://127.0.0.1:6878/ace/getstream?id=bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
-#EXTINF:-1 group-title="CANALES ESPAÑA" tvg-id="DAZN 4" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M4SD.png" ,DAZN 4
+#EXTINF:-1 group-title="CANALES ESPAÑA" tvg-id="DAZN 4" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN4.png" ,DAZN 4
 http://127.0.0.1:6878/ace/getstream?id=149a38e333de920753f1388c43247283bdb05f5b
