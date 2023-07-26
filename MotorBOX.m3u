@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
 #EXTINF:-1 group-title="CANALES ESPAÑA" tvg-id="Teledeporte" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte%20HD.png" ,Teledeportes
-http://192.168.1.144:6878/ace/getstream?id=5a272a468eaf25feb032e2c5d377c6276b2299c7
+http://192.168.1.144:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
 #EXTINF:-1 group-title="CANALES ESPAÑA" tvg-id="M+ #0 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20%230%20HD.png" ,M+ #0
 http://192.168.1.144:6878/ace/getstream?id=864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
 #EXTINF:-1 group-title="CANALES ESPAÑA" tvg-id="M+ LaLigaTV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLigaTV%20HD.png" ,M. LaLіgaTV Op1
