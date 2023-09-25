@@ -5,7 +5,7 @@ http://192.168.1.97:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b0
 http://192.168.1.97:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5
 #EXTINF:-1 tvg-id="M+ LaLiga TV UHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20UHD.png" ,M. LaLіgaTV Op3 UHD
 http://192.168.1.97:6878/ace/getstream?id=dce1579e3a2e5bd29071fca8eae364f1eb3205cf
-#EXTINF:-1 tvg-id="M+ LaLiga TV UHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20UHD.png" ,M. LaLіgaTV Op4 UHD 2
+#EXTINF:-1 tvg-id="M+ LaLiga TV UHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGUH.png" ,M. LaLіgaTV Op4 UHD 2
 http://192.168.1.97:6878/ace/getstream?id=8286183314d367940409b760bbf887f3fb923f60
 #EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%202%20HD.png" ,M. LaLіgaTV 2
 http://192.168.1.97:6878/ace/getstream?id=26029f72a4ca831d09deefe89534818db1d105bc
