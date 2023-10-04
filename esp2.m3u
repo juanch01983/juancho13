@@ -32,9 +32,9 @@ http://192.168.1.97:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b9
 #EXTINF:-1 tvg-id="MEurosport 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" ,Eurosport 2
 http://192.168.1.97:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
 #EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="M+ Liga de Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" ,M+ L.Camp. Op1
-http://192.168.1.97:6878/ace/getstream?id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
+http://192.168.1.97:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
 #EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="M+ Liga de Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" ,M+ L.Camp. Op2
-http://192.168.1.97:6878/ace/getstream?id=1d79a7543d691666135669f89f3541f54e2dd0a9
+http://192.168.1.97:6878/ace/getstream?id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2" tvg-name="M+ Liga de Campeones 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" ,M+ L.Camp. 2
 http://192.168.1.97:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 3" tvg-name="M+ Liga de Campeones 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" ,M+ L.Camp. 3
