@@ -47,6 +47,8 @@ http://192.168.1.97:6878/ace/getstream?id=5c21c181156f200d5e628ef2c62cd06bf5f97e
 http://192.168.1.97:6878/ace/getstream?id=a0978a100de9a307c12d395d9b2f4142db6ab52d
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 7" tvg-name="M+ Liga de Campeones 7" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP6.png" ,M+ L.Camp. 7
 http://192.168.1.97:6878/ace/getstream?id=5932623d2fd7ed16b01787251b418e4f59a01cda
-#EXTINF:-1 tvg-id="DAZN LaLiga Femenina 1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" ,DZ LaLіga Femenina 1
+#EXTINF:-1 tvg-id="DAZN LaLiga Femenina 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20Femenina%201.png" ,DZ LaLіga Femenina 1
 http://192.168.1.97:6878/ace/getstream?id=600222a4f98df80a2c0df2d60cb5ff3df9620710
+#EXTINF:-1 tvg-id="DAZN LaLiga Femenina 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20Femenina%202.png" ,DZ LaLіga Femenina 2
+http://192.168.1.97:6878/ace/getstream?id=4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b
 
