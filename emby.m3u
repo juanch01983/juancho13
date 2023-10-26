@@ -1,2 +1,4 @@
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 1" tvg-name="M+ Liga de Campeones" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%20HD.png" ,M+ L.Camp. Op2
 http://192.168.1.97:6878/ace/getstream?id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 1" tvg-name="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%20HD.png" ,M+ L.Camp. Op2
+http://192.168.1.97:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
