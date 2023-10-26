@@ -1,0 +1,7 @@
+#EXTM3U 
+#EXTINF: -1 tvg-id="M+ Liga de Campeones" tvg-name="M+ L.Camp. Op1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%20HD.png"
+http://192.168.1.97:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
+#EXTINF: -1 tvg-id="M+ Liga de Campeones" tvg-name="M+ L.Camp. Op2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%20HD.png"
+http://192.168.1.97:6878/ace/getstream?id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
+#EXTINF: -1 tvg-id="M+ Liga de Campeones 2" tvg-name="M+ L.Camp. 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202%20HD.png"
+http://192.168.1.97:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
