@@ -9,4 +9,4 @@ plugin://script.module.horus?action=play&id=cba8d369eac629b577750edb90370cd1c5fb
 #EXTINF:-1 group-title="Canales Polacos" tvg-id="Eleven Sports 1" tvg-logo="https://epg.ovh/logo/Eleven+Sports+4K.png" ,ELEVEN SPORT 1 4K (PL)
 plugin://script.module.horus?action=play&id=7ac2d74ef6df9d15012992d7e0e635a95f58c652&title=ELEVEN SPORT 1 4K (PL)&iconimage=https://raw.githubusercontent.com/juanch01983/juancho13/main/Eleven4k.png
 #EXTINF:-1 group-title="Canales Polacos" tvg-id="Eleven Sports 1" tvg-logo="https://epg.ovh/logo/Eleven+Sports+4K.png" ,ELEVEN SPORT 1 4K Sin Horus
-http://127.0.0.1:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
+acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
