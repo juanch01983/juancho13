@@ -8,3 +8,5 @@ plugin://script.module.horus?action=play&id=c9c062941fbecb16ce29437f346ea7177d72
 plugin://script.module.horus?action=play&id=cba8d369eac629b577750edb90370cd1c5fb03b7&title=Fox Sport 2 (US)&iconimage=https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_11278_7_8373.png.457ee15bb743daaeb888b0166e8c08c5.png
 #EXTINF:-1 group-title="Canales Polacos" tvg-id="Eleven Sports 1" tvg-logo="https://epg.ovh/logo/Eleven+Sports+4K.png" ,ELEVEN SPORT 1 4K (PL)
 plugin://script.module.horus?action=play&id=7ac2d74ef6df9d15012992d7e0e635a95f58c652&title=ELEVEN SPORT 1 4K (PL)&iconimage=https://raw.githubusercontent.com/juanch01983/juancho13/main/Eleven4k.png
+#EXTINF:-1 group-title="Canales Polacos" tvg-id="Eleven Sports 1" tvg-logo="https://epg.ovh/logo/Eleven+Sports+4K.png" ,ELEVEN SPORT 1 4K Sin Horus
+http://192.168.1.85:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
