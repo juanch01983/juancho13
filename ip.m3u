@@ -35,7 +35,7 @@ http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
 #EXTINF:-1 tvg-id="Ziggo.Sport.Select.nl" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-ziggo-select-285.png" ,Ziggo Sport Select [NL]
 http://127.0.0.1:6878/ace/getstream?id=45eab0695ce13265687ace5e5bcef8d8ee8bc69a
 #EXTINF:-1 tvg-id="Ziggo.Sport.Voetbal.nl" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-ziggo-voetbal-286.png" ,Ziggo Sport Voetbal [NL]
-http://127.0.0.1:6878/ace/getstream?id=e38b33c56332de27ff25df223cdf488b1ec6051f
+http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 #EXTINF:-1 tvg-id="Digi.Sport.1.ro" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-ro-digi-sport-1-880.png" ,Digi Sport 1 [RM]
 http://127.0.0.1:6878/ace/getstream?id=51cee9d0b29dbd9104e9a3971fd2569419eab159
 #EXTINF:-1 tvg-id="Digi.Sport.1.ro" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-ro-digi-sport-1-880.png" ,Digi Sport 1 [RM] (Op2)
