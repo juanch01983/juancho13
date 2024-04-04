@@ -24,6 +24,8 @@ http://192.168.1.88:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e2
 http://192.168.1.88:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
 #EXTINF:-1 tvg-id="Ziggo.Sport.Select.nl" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-ziggo-select-285.png" ,Ziggo Sport Select [NL]
 http://192.168.1.88:6878/ace/getstream?id=45eab0695ce13265687ace5e5bcef8d8ee8bc69a
+#EXTINF:-1 tvg-id="Ziggo.Sport.Voetbal.nl" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-ziggo-voetbal-286.png" ,Ziggo Sport Voetbal [NL]
+http://192.168.1.88:6878/ace/getstream?id=95769f95c6af45e8ec46526c3be1104d0a0c7b91
 #EXTINF:-1 tvg-id="Digi.Sport.1.ro" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-ro-digi-sport-1-880.png" ,Digi Sport 1 [RM]
 http://192.168.1.88:6878/ace/getstream?id=51cee9d0b29dbd9104e9a3971fd2569419eab159
 #EXTINF:-1 tvg-id="Digi.Sport.1.ro" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-ro-digi-sport-1-880.png" ,Digi Sport 1 [RM] (Op2)
