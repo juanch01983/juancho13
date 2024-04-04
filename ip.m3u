@@ -28,8 +28,6 @@ http://127.0.0.1:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
 http://127.0.0.1:6878/ace/getstream?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212
 #EXTINF:-1 tvg-id="Eleven.Sports.4.HD.pl" tvg-logo="https://epg.ovh/logo/Eleven+Sports+4.png" ,Eleven Sports 4 [PL]
 http://127.0.0.1:6878/ace/getstream?id=458a0ddd7d193f6d2750cd14d03a47f47a808e09
-#EXTINF:-1 tvg-id="Eleven.Sports.5.HD.pl" tvg-logo="https://epg.ovh/logo/Eleven+Sports+4.png" ,Eleven Sports 5 [PL]
-http://127.0.0.1:6878/ace/getstream?id=5f595b1bbade5e7c915d99f90645f4c30d4ba540
 #EXTINF:-1 tvg-id="DAZN.1.de" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-1-deutschland-2703.png" ,DAZN 1 BAR [DE]
 http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1 tvg-id="DAZN.2.de" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-2-deutschland-2704.png" ,DAZN 2 BAR [DE]
