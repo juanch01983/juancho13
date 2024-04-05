@@ -13,7 +13,7 @@ http://192.168.1.88:6878/ace/getstream?id=e33e666c393ef04ebe99a9b92135d2e0b48c4d
 #EXTINF:-1 tvg-id="Eleven.Sports.1.4K.pl" tvg-logo="https://epg.ovh/logo/Eleven+Sports+4K.png" ,ELEVEN SPORT 1 4K (PL)
 http://192.168.1.88:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
 #EXTINF:-1 tvg-id="CANAL+.Sport.HD.pl" tvg-logo="https://epg.ovh/logo/Canal++Sport.png" ,Canal Sport 1 [PL]
-http://192.168.1.88:6878/ace/getstream?id=cc7b8c39f70aa342248d02c8ab55bafdb4116ed7&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+http://192.168.1.88:6878/ace/getstream?id=cc7b8c39f70aa342248d02c8ab55bafdb4116ed7&ts=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 #EXTINF:-1 tvg-id="CANAL+.Sport.2.HD.pl" tvg-logo="https://epg.ovh/logo/Canal++Sport+2.png" ,Canal Sport 2 [PL]
 http://192.168.1.88:6878/ace/getstream?id=6390b1ab967a25777ea2dde1d41b7400cc0601d3
 #EXTINF:-1 tvg-id="CANAL+.Sport.3.HD.pl" tvg-logo="https://epg.ovh/logo/Canal++Sport+3.png" ,Canal Sport 3 [PL]
