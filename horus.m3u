@@ -1,16 +1,16 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml"
 #EXTINF:-1 group-title="Canales Españoles" tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20HD.png" ,M. LaLіgaTV Op1
-plugin://script.module.horus?action=play&id=7d8c87e057be98f00f22e23b23fbf08999e4b02f&title=LaLiga TV HD&https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20HD.png
+plugin://script.module.horus?action=play&id=7d8c87e057be98f00f22e23b23fbf08999e4b02f&title=LaLiga TV HD&iconimage=https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20HD.png
 #EXTINF:-1 group-title="Canales Españoles" tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20HD.png" ,M. LaLіgaTV Op2
-plugin://script.module.horus?action=play&id=1969c27658d4c8333ab2c0670802546121a774a5&title=LaLiga TV HD&https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20HD.png
+plugin://script.module.horus?action=play&id=1969c27658d4c8333ab2c0670802546121a774a5&title=LaLiga TV HD&iconimage=https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20HD.png
 #EXTINF:-1 group-title="Canales Españoles" tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%202%20HD.png" ,M. LaLіgaTV 2
-plugin://script.module.horus?action=play&id=26029f72a4ca831d09deefe89534818db1d105bc&title=LaLiga TV 2 HD&https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%202%20HD.png
+plugin://script.module.horus?action=play&id=26029f72a4ca831d09deefe89534818db1d105bc&title=LaLiga TV 2 HD&iconimage=https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%202%20HD.png
 #EXTINF:-1 group-title="Canales Españoles" tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20HD.png" ,DZ LaLіga Op1
-plugin://script.module.horus?action=play&id=1960a9be8ae9e8c755330218eac4c5805466290a&title=DAZN LaLiga HD&https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20HD.png
+plugin://script.module.horus?action=play&id=1960a9be8ae9e8c755330218eac4c5805466290a&title=DAZN LaLiga HD&iconimage=https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20HD.png
 #EXTINF:-1 group-title="Canales Españoles" tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20HD.png" ,DZ LaLіga Op2
-plugin://script.module.horus?action=play&id=75251ba975132ec9a202806ba5bf606e87280c96&title=DAZN LaLiga HD&https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20HD.png
+plugin://script.module.horus?action=play&id=75251ba975132ec9a202806ba5bf606e87280c96&title=DAZN LaLiga HD&iconimage=https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20HD.png
 #EXTINF:-1 group-title="Canales Españoles" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202%20HD.png" ,DZ LaLіga 2
-plugin://script.module.horus?action=play&id=e33e666c393ef04ebe99a9b92135d2e0b48c4d10&title=DAZN LaLiga 2 HD&https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202%20HD.png
+plugin://script.module.horus?action=play&id=e33e666c393ef04ebe99a9b92135d2e0b48c4d10&title=DAZN LaLiga 2 HD&iconimage=https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202%20HD.png
 #EXTINF:-1 group-title="Canales Españoles" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%20HD.png" ,LaLіgaTV Hypermotion
 plugin://script.module.horus?action=play&id=4c46585214b23b1d802ef2168060c7649a3894cf
 #EXTINF:-1 group-title="Canales Españoles" tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png" ,LaLіgaTV Hypermotion 2
@@ -18,7 +18,7 @@ plugin://script.module.horus?action=play&id=d81b4f2f3fde433539c097b2edc9b587ca47
 #EXTINF:-1 group-title="Canales Españoles" tvg-id="LaLiga TV Hypermotion 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%203.png" ,LaLіgaTV Hypermotion 3
 plugin://script.module.horus?action=play&id=b4a076c1f67a5c1f1ba899ac61b9401b1dc30f41
 #EXTINF:-1 group-title="Canales Españoles" tvg-id="M+ Vamos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%20HD.png" ,M+ Vamos
-plugin://script.module.horus?action=play&id=859bb6295b8d0f224224d3063d9db7cdeca03122&title=M+ Vamos HD&https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%20HD.png
+plugin://script.module.horus?action=play&id=859bb6295b8d0f224224d3063d9db7cdeca03122&title=M+ Vamos HD&iconimage=https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%20HD.png
 #EXTINF:-1 group-title="Canales Españoles" tvg-id="Movistar Plus+ HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B%20HD.png" ,Movistar Plus+ HD
 plugin://script.module.horus?action=play&id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
 #EXTINF:-1 group-title="Canales Españoles" tvg-id="M+ Deportes HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%20HD.png" ,M+ Deportes
