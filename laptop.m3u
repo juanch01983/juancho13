@@ -60,3 +60,5 @@ http://192.168.1.88:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351
 http://192.168.1.88:6878/ace/getstream?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212
 #EXTINF:-1 tvg-id="Eleven.Sports.4.HD.pl" tvg-logo="https://epg.ovh/logo/Eleven+Sports+4.png" ,Eleven Sports 4 [PL]
 http://192.168.1.88:6878/ace/getstream?id=458a0ddd7d193f6d2750cd14d03a47f47a808e09
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="DAZN 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20HD.png" ,DAZN 1 HD (ES)
+http://192.168.1.88:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
