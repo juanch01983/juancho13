@@ -1,14 +1,14 @@
-#EXTINF:-1 group-title="Canales Champions" tvg-id="TNTSports1.HD.uk" tvg-name="TNTSports1.HD.uk" tvg-logo="https://tv.assets.pressassociation.io/f55b110f-8046-5273-a249-badfe915e918.png" ,TNT Sports 1 (UK)
+#EXTINF:-1 group-title="Premier League" tvg-id="TNTSports1.HD.uk" tvg-name="TNTSports1.HD.uk" tvg-logo="https://tv.assets.pressassociation.io/f55b110f-8046-5273-a249-badfe915e918.png" ,TNT Sports 1 (UK)
 http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-#EXTINF:-1 group-title="Canales Champions" tvg-id="TNTSports2.HD.uk" tvg-name="TNTSports2.HD.uk" tvg-logo="https://tv.assets.pressassociation.io/77f422fa-d4a2-5687-953c-34f4da7d8b91.png" ,TNT Sports 2 (UK)
+#EXTINF:-1 group-title="Premier League" tvg-id="TNTSports2.HD.uk" tvg-name="TNTSports2.HD.uk" tvg-logo="https://tv.assets.pressassociation.io/77f422fa-d4a2-5687-953c-34f4da7d8b91.png" ,TNT Sports 2 (UK)
 http://127.0.0.1:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
-#EXTINF:-1 group-title="Canales Champions" tvg-id="TNTSports3.HD.uk" tvg-name="TNTSports3.HD.uk" tvg-logo="https://tv.assets.pressassociation.io/75c9df5d-d2d8-5d04-92ac-d9973c082c72.png" ,TNT Sports 3 (UK)
+#EXTINF:-1 group-title="Premier League" tvg-id="TNTSports3.HD.uk" tvg-name="TNTSports3.HD.uk" tvg-logo="https://tv.assets.pressassociation.io/75c9df5d-d2d8-5d04-92ac-d9973c082c72.png" ,TNT Sports 3 (UK)
 http://127.0.0.1:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
-#EXTINF:-1 group-title="Canales Champions" tvg-id="TNTSports4.HD.uk" tvg-name="TNTSports4.HD.uk" tvg-logo="https://tv.assets.pressassociation.io/056d00c0-1629-5388-857c-f1a9ebdec5b8.png" ,TNT Sports 4 (UK)
+#EXTINF:-1 group-title="Premier League" tvg-id="TNTSports4.HD.uk" tvg-name="TNTSports4.HD.uk" tvg-logo="https://tv.assets.pressassociation.io/056d00c0-1629-5388-857c-f1a9ebdec5b8.png" ,TNT Sports 4 (UK)
 http://127.0.0.1:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
-#EXTINF:-1 group-title="Canales Champions" tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://tv.assets.pressassociation.io/4964f8fc-9ecf-55b1-be63-be6e1beda0cd.png" ,Sky Sports Main Event (UK)
+#EXTINF:-1 group-title="Premier League" tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://tv.assets.pressassociation.io/4964f8fc-9ecf-55b1-be63-be6e1beda0cd.png" ,Sky Sports Main Event (UK)
 http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 group-title="Canales Champions" tvg-id="Sky.Sports.Football.HD.uk" tvg-name="Sky Sports Football" tvg-logo="https://tv.assets.pressassociation.io/eed8d25e-5a38-517b-84f7-4a54ca3fa757.png" ,Sky Sports Football (UK)
+#EXTINF:-1 group-title="Premier League" tvg-id="Sky.Sports.Football.HD.uk" tvg-name="Sky Sports Football" tvg-logo="https://tv.assets.pressassociation.io/eed8d25e-5a38-517b-84f7-4a54ca3fa757.png" ,Sky Sports Football (UK)
 http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
-#EXTINF:-1 group-title="Canales Champions" tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League HD" tvg-logo="https://tv.assets.pressassociation.io/eb561577-2d54-5d1f-aaf4-1c856e4952ff.png" ,Sky Sports Premier League HD (UK)
+#EXTINF:-1 group-title="Premier League" tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League HD" tvg-logo="https://tv.assets.pressassociation.io/eb561577-2d54-5d1f-aaf4-1c856e4952ff.png" ,Sky Sports Premier League HD (UK)
 http://127.0.0.1:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
