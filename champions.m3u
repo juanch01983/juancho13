@@ -1,4 +1,4 @@
-#EXTINF:-1 group-title="Premier League" tvg-id="TNTSports1.HD.uk" tvg-name="TNTSports1.HD.uk" tvg-logo="https://tv.assets.pressassociation.io/f55b110f-8046-5273-a249-badfe915e918.png" ,TNT Sports 1 (UK)
+#EXTINF:-1 group-title="Premier League" tvg-id="TNTSports1.HD.uk" tvg-name="TNTSports1.HD.uk" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/main/TNT_Sports_1_HD__2023_.png" ,TNT Sports 1 (UK)
 http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 #EXTINF:-1 group-title="Premier League" tvg-id="TNTSports2.HD.uk" tvg-name="TNTSports2.HD.uk" tvg-logo="https://tv.assets.pressassociation.io/77f422fa-d4a2-5687-953c-34f4da7d8b91.png" ,TNT Sports 2 (UK)
 http://127.0.0.1:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
