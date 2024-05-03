@@ -12,3 +12,7 @@ http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
 http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
 #EXTINF:-1 group-title="Premier League" tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League HD" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/main/Sky-Sports-Premier-League-HD.png" ,Sky Sports Premier League HD (UK)
 http://127.0.0.1:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
+#EXTINF:-1 group-title="Premier League" tvg-id="Premier.Sports.1.HD.ie" tvg-name="Premier Sports 1 HD" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/main/Premier-Sports-1-HD-_1_.png" ,Premier Sports 1 HD (UK)
+http://127.0.0.1:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
+#EXTINF:-1 group-title="Premier League" tvg-id="Premier.Sports.2.HD.ie" tvg-name="Premier Sports 2 HD" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/main/Premier-Sports-2-HD-_1_.png" ,Premier Sports 2 HD (UK)
+http://127.0.0.1:6878/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537
