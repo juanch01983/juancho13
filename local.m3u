@@ -1,3 +1,5 @@
+#EXTINF:-1 group-title="Canales Polacos" tvg-id="Eleven.Sports.1.4K.pl" tvg-logo="https://epg.ovh/logo/Eleven+Sports+4K.png" ,ELEVEN SPORT 1 4K (PL)
+http://127.0.0.1:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
 #EXTINF:-1 group-title="Canales Españoles" tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20HD.png" ,M. LaLіgaTV Op1
 http://127.0.0.1:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
 #EXTINF:-1 group-title="Canales Españoles" tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20HD.png" ,M. LaLіgaTV Op2
@@ -64,3 +66,17 @@ http://127.0.0.1:6878/ace/getstream?id=60dbeeb299ec04bf02bc7426d827547599d3d9fc
 http://127.0.0.1:6878/ace/getstream?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
 #EXTINF:-1 group-title="Canales Españoles" tvg-id="DAZN 4 HD" tvg-name="DAZN 4 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204%20HD.png" ,DAZN 4 HD (ES)
 http://127.0.0.1:6878/ace/getstream?id=2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
+#EXTINF:-1 group-title="Canales Portugal" tvg-id="ELEVEN.SPORTS.1.pt" tvg-logo="https://epgx.site/p/eleven-sport1-pt.png" ,DAZN ELEVEN 1 (PT)
+http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 group-title="Canales Portugal" tvg-id="ELEVEN.SPORTS.2.pt" tvg-logo="https://epgx.site/p/eleven-sport2-pt.png" ,DAZN ELEVEN 2 (PT)
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 group-title="Canales Portugal" tvg-id="ELEVEN.SPORTS.3.pt" tvg-logo="https://epgx.site/p/eleven-sport3-pt.png" ,DAZN ELEVEN 3 (PT)
+http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
+#EXTINF:-1 group-title="Canales Portugal" tvg-id="ELEVEN.SPORTS.4.pt" tvg-logo="https://epgx.site/p/eleven-sport4-pt.png" ,DAZN ELEVEN 4 (PT)
+http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
+#EXTINF:-1 group-title="Canales Portugal" tvg-id="ELEVEN.SPORTS.5.pt" tvg-logo="https://epgx.site/p/eleven-sport5-pt.png" ,DAZN ELEVEN 5 (PT)
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 group-title="Premier League" tvg-id="Premier.Sports.1.HD.ie" tvg-name="Premier Sports 1 HD" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/main/Premier-Sports-1-HD-_1_.png" ,Premier Sports 1 HD (UK)
+http://127.0.0.1:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
+#EXTINF:-1 group-title="Premier League" tvg-id="Premier.Sports.2.HD.ie" tvg-name="Premier Sports 2 HD" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/main/Premier-Sports-2-HD-_1_.png" ,Premier Sports 2 HD (UK)
+http://127.0.0.1:6878/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537
