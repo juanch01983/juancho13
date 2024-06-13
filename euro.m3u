@@ -2,7 +2,7 @@
 http://127.0.0.1:6878/ace/getstream?id=c71fb593810ce837545e8d8b384e50a42c35a316
 #EXTINF:-1  tvg-id="Servus TV [DE]" tvg-logo="xxxxx" ,Servus TV [DE]
 http://127.0.0.1:6878/ace/getstream?id=988f4d88d74ec0d2b3584f6c7e067fcbdb501115
-#EXTINF:-1  tvg-id="MySports 1" tvg-logo="https://logowik.com/content/uploads/images/uefa-euro-2024-germany6931.jpg" ,Magenta Sport 1 HD [DE]
+#EXTINF:-1  tvg-id="SPORT1.de" tvg-logo="https://logowik.com/content/uploads/images/uefa-euro-2024-germany6931.jpg" ,Magenta Sport 1 HD [DE]
 http://127.0.0.1:6878/ace/getstream?id=501141c649a2b78c4965cbf3257224181cc55072
 #EXTINF:-1  tvg-id="MySports 2" tvg-logo="https://logowik.com/content/uploads/images/uefa-euro-2024-germany6931.jpg" ,Magenta Sport 2 HD [DE]
 http://127.0.0.1:6878/ace/getstream?id=ab0d54995bdcea2d8f9f588ef631ebbfb3f5a9ab
