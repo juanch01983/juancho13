@@ -16,4 +16,9 @@ http://127.0.0.1:6878/ace/getstream?id=c33404e81c7499e9c962e8a672c6cb4d534e431c
 http://127.0.0.1:6878/ace/getstream?id=bc9610c2cb92a71a5c17f357d66719fa1c054ced
 #EXTINF:-1  tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/uefa-euro-2024-germany6931.jpg" ,RTL+ SPORT EVENT 1 [DE]
 http://127.0.0.1:6878/ace/getstream?id=a7319ebd54cb1db9a9db1574929ca8d305a323d3
-
+#EXTINF:-1  tvg-id="TVP.1.HD.pl" tvg-logo="https://logowik.com/content/uploads/images/uefa-euro-2024-germany6931.jpg" ,TVP 1 HD [PL]
+http://127.0.0.1:6878/ace/getstream?id=d31d828052a432246e59e7d0d640bd55a64f1859
+#EXTINF:-1  tvg-id="TVP.2.HD.pl" tvg-logo="https://logowik.com/content/uploads/images/uefa-euro-2024-germany6931.jpg" ,TVP 2 [PL]
+http://127.0.0.1:6878/ace/getstream?id=dad9d9e595bcfd251469ed58d380e53bfb46bb18
+#EXTINF:-1  tvg-id="TVP.Sport.HD.pl" tvg-logo="https://logowik.com/content/uploads/images/uefa-euro-2024-germany6931.jpg" ,TVP Sport HD [PL]
+http://127.0.0.1:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
