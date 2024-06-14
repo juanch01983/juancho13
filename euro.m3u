@@ -4,3 +4,16 @@ http://127.0.0.1:6878/ace/getstream?id=501141c649a2b78c4965cbf3257224181cc55072
 http://127.0.0.1:6878/ace/getstream?id=ab0d54995bdcea2d8f9f588ef631ebbfb3f5a9ab
 #EXTINF:-1  tvg-id="MySports 3" tvg-logo="https://logowik.com/content/uploads/images/uefa-euro-2024-germany6931.jpg" ,Fussball TV 3 [DE]
 http://127.0.0.1:6878/ace/getstream?id=d0ca51f6145514ee605c2ef5d5a137e2a08c95b8
+#EXTINF:-1  tvg-id="ZDF.de" tvg-logo="https://logowik.com/content/uploads/images/uefa-euro-2024-germany6931.jpg" ,ZDF HD [DE]
+http://127.0.0.1:6878/ace/getstream?id=c71fb593810ce837545e8d8b384e50a42c35a316
+#EXTINF:-1  tvg-id="Servus.TV.de" tvg-logo="https://logowik.com/content/uploads/images/uefa-euro-2024-germany6931.jpg" ,Servus TV [DE]
+http://127.0.0.1:6878/ace/getstream?id=988f4d88d74ec0d2b3584f6c7e067fcbdb501115
+#EXTINF:-1  tvg-id="ORF.eins.de" tvg-logo="https://logowik.com/content/uploads/images/uefa-euro-2024-germany6931.jpg" ,ORF 1 HD [DE]
+http://127.0.0.1:6878/ace/getstream?id=c9d6412050226de0968cea19a383b50dc1966363
+#EXTINF:-1  tvg-id="Das.Erste.de" tvg-logo="https://logowik.com/content/uploads/images/uefa-euro-2024-germany6931.jpg" ,Das Erste HD [DE]
+http://127.0.0.1:6878/ace/getstream?id=c33404e81c7499e9c962e8a672c6cb4d534e431c
+#EXTINF:-1  tvg-id="RTL.de" tvg-logo="https://logowik.com/content/uploads/images/uefa-euro-2024-germany6931.jpg" ,RTL HD [DE]
+http://127.0.0.1:6878/ace/getstream?id=bc9610c2cb92a71a5c17f357d66719fa1c054ced
+#EXTINF:-1  tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/uefa-euro-2024-germany6931.jpg" ,RTL+ SPORT EVENT 1 [DE]
+http://127.0.0.1:6878/ace/getstream?id=a7319ebd54cb1db9a9db1574929ca8d305a323d3
+
