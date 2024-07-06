@@ -36,7 +36,7 @@ http://192.168.1.88:6878/ace/getstream?id=b1e5abc48195b7ca9b2ee1b352e790eb9f7292
 http://192.168.1.88:6878/ace/getstream?id=8587ed8ac36ac477e1d4176d3159a38bd154d4ce
 #EXTINF:-1  tvg-id="M+ Deportes 7" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%207.png" ,M+ Deportes 7
 http://192.168.1.88:6878/ace/getstream?id=61a38b6c3b6c3fdffcb2f61053f3437e569eb666
-#EXTINF:-1  tvg-id="Eurosport 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201%20HD.png" ,Eurosport 1
+#EXTINF:-1  tvg-id="Eurosport 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%204K.png" ,Eurosport 4K
 http://192.168.1.88:6878/ace/getstream?id=c525471499b936decc037ea86e0f8125ebf78c28
 #EXTINF:-1  tvg-id="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" ,Eurosport 2
 http://192.168.1.88:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
