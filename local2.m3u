@@ -1,5 +1,7 @@
 #EXTINF:-1  tvg-id="La 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201%20UHD.png" ,La 1 UHD
 http://192.168.1.88:6878/ace/getstream?id=61a38b6c3b6c3fdffcb2f61053f3437e569eb666
+#EXTINF:-1  tvg-id="SPORTDIGITAL FUSSBALL GE" tvg-logo="http://ngiss.t-online.de/cm1s/media/58639959eb7241ee5cc8dbf96122c1f73ec809a9.png" ,Sportdigital Fusball (DE)
+http://192.168.1.88:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
 #EXTINF:-1  tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20HD.png" ,M. LaLіgaTV Op1
 http://192.168.1.88:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
 #EXTINF:-1  tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20HD.png" ,M. LaLіgaTV Op2*
@@ -34,8 +36,6 @@ http://192.168.1.88:6878/ace/getstream?id=42e83c337ece0af9ca7808859f84c7960e9cb6
 http://192.168.1.88:6878/ace/getstream?id=b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
 #EXTINF:-1  tvg-id="M+ Deportes 6" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%206.png" ,M+ Deportes 6
 http://192.168.1.88:6878/ace/getstream?id=8587ed8ac36ac477e1d4176d3159a38bd154d4ce
-#EXTINF:-1  tvg-id="M+ Deportes 7" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%207.png" ,M+ Deportes 7
-http://192.168.1.88:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
 #EXTINF:-1  tvg-id="Eurosport.4K.es" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%204K.png" ,Eurosport 4K
 http://192.168.1.88:6878/ace/getstream?id=c525471499b936decc037ea86e0f8125ebf78c28
 #EXTINF:-1  tvg-id="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" ,Eurosport 2
