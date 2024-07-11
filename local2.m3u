@@ -68,3 +68,7 @@ http://192.168.1.88:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df
 http://192.168.1.88:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 group-title="La Liga" tvg-id="ELEVEN.SPORTS.5.pt" tvg-logo="https://epgx.site/p/eleven-sport5-pt.png"
 http://192.168.1.88:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
+#EXTINF:-1 group-title="La Liga" tvg-id="DAZN 1 GER" tvg-logo="http://ngiss.t-online.de/cm1s/media/498bbbdd4dd1744448e9fb33777059d30e3ef6b0.jpeg" ,DAZN 1 BAR (DE)
+http://192.168.1.88:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
+#EXTINF:-1 group-title="La Liga" tvg-id="DAZN 2 GER" tvg-logo="http://ngiss.t-online.de/cm1s/media/7c972a4018118354837c15ea3774f7efbb5a1780.jpeg" ,DAZN 2 BAR (DE)
+http://192.168.1.88:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
