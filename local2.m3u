@@ -1,6 +1,6 @@
 #EXTINF:-1 group-title="Eurocopa" tvg-id="La 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201%20UHD.png" ,La 1 UHD
 http://192.168.1.88:6878/ace/getstream?id=61a38b6c3b6c3fdffcb2f61053f3437e569eb666
-#EXTINF:-1 group-title="Copa America" tvg-id="sportdigital.de" tvg-logo="http://ngiss.t-online.de/cm1s/media/58639959eb7241ee5cc8dbf96122c1f73ec809a9.png" ,Sportdigital Fusball (DE)
+#EXTINF:-1 group-title="Copa America" tvg-id="sportdigital.de" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/m6qkm51712223494.png" ,Sportdigital Fusball (DE)
 http://192.168.1.88:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
 #EXTINF:-1 group-title="La Liga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20HD.png" ,M. LaLіgaTV Op1
 http://192.168.1.88:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
@@ -36,10 +36,12 @@ http://192.168.1.88:6878/ace/getstream?id=42e83c337ece0af9ca7808859f84c7960e9cb6
 http://192.168.1.88:6878/ace/getstream?id=b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
 #EXTINF:-1 group-title="Deportes España" tvg-id="M+ Deportes 6" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%206.png" ,M+ Deportes 6
 http://192.168.1.88:6878/ace/getstream?id=8587ed8ac36ac477e1d4176d3159a38bd154d4ce
-#EXTINF:-1 group-title="Deportes España" tvg-id="Eurosport.4K.es" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%204K.png" ,Eurosport 4K
-http://192.168.1.88:6878/ace/getstream?id=c525471499b936decc037ea86e0f8125ebf78c28
+#EXTINF:-1 group-title="Deportes España" tvg-id="Eurosport 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201%20HD.png" ,Eurosport 1
+http://192.168.1.88:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 #EXTINF:-1 group-title="Deportes España" tvg-id="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" ,Eurosport 2
 http://192.168.1.88:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1 group-title="Deportes España" tvg-id="Eurosport.4K.es" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%204K.png" ,Eurosport 4K
+http://192.168.1.88:6878/ace/getstream?id=c525471499b936decc037ea86e0f8125ebf78c28
 #EXTINF:-1 group-title="Champions League" tvg-id="M+ Liga de Campeones HD" tvg-name="M+ Liga de Campeones" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%20HD.png" ,M+ L.Camp. Op1*
 http://192.168.1.88:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
 #EXTINF:-1 group-title="Champions League" tvg-id="M+ Liga de Campeones HD" tvg-name="M+ Liga de Campeones" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%20HD.png" ,M+ L.Camp. Op2
@@ -58,15 +60,15 @@ http://192.168.1.88:6878/ace/getstream?id=60dbeeb299ec04bf02bc7426d827547599d3d9
 http://192.168.1.88:6878/ace/getstream?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
 #EXTINF:-1 group-title="DAZN España" tvg-id="DAZN 4 HD" tvg-name="DAZN 4 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204%20HD.png" ,DAZN 4 HD (ES)
 http://192.168.1.88:6878/ace/getstream?id=2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
-#EXTINF:-1 group-title="La Liga" tvg-id="ELEVEN.SPORTS.1.pt" tvg-logo="https://epgx.site/p/eleven-sport1-pt.png" ,DAZN ELEVEN 1 (PT)
+#EXTINF:-1 group-title="La Liga" tvg-id="ELEVEN.SPORTS.1.pt" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/so7ebc1701159984.png" ,DAZN ELEVEN 1 (PT)
 http://192.168.1.88:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 group-title="La Liga" tvg-id="ELEVEN.SPORTS.2.pt" tvg-logo="https://epgx.site/p/eleven-sport2-pt.png" ,DAZN ELEVEN 2 (PT)
+#EXTINF:-1 group-title="La Liga" tvg-id="ELEVEN.SPORTS.2.pt" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/wsatpi1701159994.png" ,DAZN ELEVEN 2 (PT)
 http://192.168.1.88:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-#EXTINF:-1 group-title="La Liga" tvg-id="ELEVEN.SPORTS.3.pt" tvg-logo="https://epgx.site/p/eleven-sport3-pt.png" ,DAZN ELEVEN 3 (PT)
+#EXTINF:-1 group-title="La Liga" tvg-id="ELEVEN.SPORTS.3.pt" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/t7o6x91701160006.png" ,DAZN ELEVEN 3 (PT)
 http://192.168.1.88:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 group-title="La Liga" tvg-id="ELEVEN.SPORTS.4.pt" tvg-logo="https://epgx.site/p/eleven-sport4-pt.png" ,DAZN ELEVEN 4 (PT)
+#EXTINF:-1 group-title="La Liga" tvg-id="ELEVEN.SPORTS.4.pt" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/yvzm9v1701160022.png" ,DAZN ELEVEN 4 (PT)
 http://192.168.1.88:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1 group-title="La Liga" tvg-id="ELEVEN.SPORTS.5.pt" tvg-logo="https://epgx.site/p/eleven-sport5-pt.png"
+#EXTINF:-1 group-title="La Liga" tvg-id="tvg-id="Eleven.Sports.1.4K.pl" tvg-logo="https://epg.ovh/logo/Eleven+Sports+4K.png", 
 http://192.168.1.88:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
 #EXTINF:-1 group-title="La Liga" tvg-id="DAZN 1 GER" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/pcmt111657045725.png" ,DAZN 1 BAR (DE)
 http://192.168.1.88:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
