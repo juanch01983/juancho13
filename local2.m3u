@@ -60,13 +60,13 @@ http://192.168.1.88:6878/ace/getstream?id=60dbeeb299ec04bf02bc7426d827547599d3d9
 http://192.168.1.88:6878/ace/getstream?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
 #EXTINF:-1 group-title="DAZN España" tvg-id="DAZN 4 HD" tvg-name="DAZN 4 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204%20HD.png" ,DAZN 4 HD (ES)
 http://192.168.1.88:6878/ace/getstream?id=2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
-#EXTINF:-1 group-title="La Liga" tvg-id="ELEVEN.SPORTS.1.pt" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/so7ebc1701159984.png" ,DAZN ELEVEN 1 (PT)
+#EXTINF:-1 group-title="La Liga" tvg-id="ELEVEN.SPORTS.1.pt" tvg-logo="https://epgx.site/p/eleven-sport1-pt.png" ,DAZN ELEVEN 1 (PT)
 http://192.168.1.88:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 group-title="La Liga" tvg-id="ELEVEN.SPORTS.2.pt" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/wsatpi1701159994.png" ,DAZN ELEVEN 2 (PT)
+#EXTINF:-1 group-title="La Liga" tvg-id="ELEVEN.SPORTS.2.pt" tvg-logo="https://epgx.site/p/eleven-sport2-pt.png" ,DAZN ELEVEN 2 (PT)
 http://192.168.1.88:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-#EXTINF:-1 group-title="La Liga" tvg-id="ELEVEN.SPORTS.3.pt" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/t7o6x91701160006.png" ,DAZN ELEVEN 3 (PT)
+#EXTINF:-1 group-title="La Liga" tvg-id="ELEVEN.SPORTS.3.pt" tvg-logo="https://epgx.site/p/eleven-sport3-pt.png" ,DAZN ELEVEN 3 (PT)
 http://192.168.1.88:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 group-title="La Liga" tvg-id="ELEVEN.SPORTS.4.pt" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/yvzm9v1701160022.png" ,DAZN ELEVEN 4 (PT)
+#EXTINF:-1 group-title="La Liga" tvg-id="ELEVEN.SPORTS.4.pt" tvg-logo="https://epgx.site/p/eleven-sport4-pt.png" ,DAZN ELEVEN 4 (PT)
 http://192.168.1.88:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 group-title="La Liga" tvg-id="tvg-id="Eleven.Sports.1.4K.pl" tvg-logo="https://epg.ovh/logo/Eleven+Sports+4K.png", Eleven Sports 1 4K (PL)
 http://192.168.1.88:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
