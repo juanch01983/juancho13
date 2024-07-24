@@ -1,0 +1,20 @@
+#EXTINF:-1 group-title="Olimpiadas" tvg-id="Eurosport 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%204K.png" ,Eurosport 4K
+http://192.168.1.88:6878/ace/getstream?id=63135c171f056d1d6028f9ffb1637ed704b88a20
+#EXTINF:-1 group-title="Olimpiadas" tvg-id="Eurosport 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201%20HD.png" ,Eurosport 1
+http://192.168.1.88:6878/ace/getstream?id=f233f3a8e9ddfae2e43d919789073fc17d9bbd7c
+#EXTINF:-1 group-title="Olimpiadas" tvg-id="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" ,Eurosport 2
+http://192.168.1.88:6878/ace/getstream?id=3e0df5e0e93cc867022e320afef0aaecda9509fe
+#EXTINF:-1 group-title="Olimpiadas" tvg-id="Eurosport 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%203%20HD.png" ,Eurosport 3
+http://192.168.1.88:6878/ace/getstream?id=a62c010c71bfb76b18188f108c3cc4541c34f45e
+#EXTINF:-1 group-title="Olimpiadas" tvg-id="Eurosport 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%204%20HD.png" ,Eurosport 4
+http://192.168.1.88:6878/ace/getstream?id=76a482a4cb53fc28518187c6b814f136b3db3c95
+#EXTINF:-1 group-title="Olimpiadas" tvg-id="Eurosport 5" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%205%20HD.png" ,Eurosport 5
+http://192.168.1.88:6878/ace/getstream?id=914ce366baec9b0fb3523dd7ba762a44b597fc40
+#EXTINF:-1 group-title="Olimpiadas" tvg-id="Eurosport 6" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%206%20HD.png" ,Eurosport 6
+http://192.168.1.88:6878/ace/getstream?id=1bc614c5aa2a94117c13c7f0be2b8ea31b535f38
+#EXTINF:-1 group-title="Olimpiadas" tvg-id="Eurosport 7" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%207%20HD.png" ,Eurosport 7
+http://192.168.1.88:6878/ace/getstream?id=e899a4f1e20f7ce1b39cc529dc237fc29a21855f
+#EXTINF:-1 group-title="Olimpiadas" tvg-id="Eurosport 8" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%208%20HD.png" ,Eurosport 8
+http://192.168.1.88:6878/ace/getstream?id=721a78f2076faa584c9c09059ffb4e10159f4665
+#EXTINF:-1 group-title="Olimpiadas" tvg-id="Eurosport 9" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%209%20HD.png" ,Eurosport 9
+http://192.168.1.88:6878/ace/getstream?id=dd9c56ef2f09753c59d9c2e2d2af31aeea6451c0
