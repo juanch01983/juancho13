@@ -1,6 +1,6 @@
-#EXTINF:-1 group-title="Amistoso" tvg-id="M+ Champions Tour HD" tvg-name="M+ Champions Tour HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Champions%20Tour%20HD.png" ,M+ Champions Tour HD
+#EXTINF:-1 group-title="0. Amistoso" tvg-id="M+ Champions Tour HD" tvg-name="M+ Champions Tour HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Champions%20Tour%20HD.png" ,M+ Champions Tour HD
 http://127.0.0.1:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
-#EXTINF:-1 group-title="Amistoso" tvg-id="M+ Champions Tour 2 HD" tvg-name="M+ Champions Tour 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Champions%20Tour%202%20HD.png" ,M+ Champions Tour 2 HD
+#EXTINF:-1 group-title="0. Amistoso" tvg-id="M+ Champions Tour 2 HD" tvg-name="M+ Champions Tour 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Champions%20Tour%202%20HD.png" ,M+ Champions Tour 2 HD
 http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
 #EXTINF:-1 group-title="1. La Liga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20HD.png" ,M. LaLіgaTV Op1
 http://192.168.1.88:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
