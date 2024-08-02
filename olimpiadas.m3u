@@ -1,3 +1,5 @@
+#EXTINF:-1 group-title="La 1 HD" tvg-id="La 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201%20UHD.png" ,La 1 UHD
+http://192.168.1.88:6878/ace/getstream?id=61a38b6c3b6c3fdffcb2f61053f3437e569eb666
 #EXTINF:-1 group-title="Olimpiadas" tvg-id="Eurosport 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%204K.png" ,Eurosport 4K
 http://192.168.1.88:6878/ace/getstream?id=63135c171f056d1d6028f9ffb1637ed704b88a20
 #EXTINF:-1 group-title="Olimpiadas" tvg-id="Eurosport 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201%20HD.png" ,Eurosport 1
