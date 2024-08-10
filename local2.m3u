@@ -66,7 +66,7 @@ http://192.168.1.88:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad80
 http://192.168.1.88:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 group-title="1. La Liga" tvg-id="Eleven.Sports.1.4K.pl" tvg-logo="https://epg.ovh/logo/Eleven+Sports+4K.png", Eleven Sports 1 4K (PL)
 http://192.168.1.88:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
- // #EXTINF:-1 group-title="1. La Liga" tvg-id="DAZN 1 GER" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/pcmt111657045725.png" ,DAZN 1 BAR (DE)
+"// #EXTINF:-1 group-title="1. La Liga" tvg-id="DAZN 1 GER" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/pcmt111657045725.png" ,DAZN 1 BAR (DE)
  // http://192.168.1.88:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
  // #EXTINF:-1 group-title="1. La Liga" tvg-id="DAZN 2 GER" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/risd0q1657045733.png" ,DAZN 2 BAR (DE)
- // http://192.168.1.88:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
+ // http://192.168.1.88:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865"
