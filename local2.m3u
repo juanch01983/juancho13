@@ -17,7 +17,7 @@ http://192.168.1.88:6878/ace/getstream?id=d81b4f2f3fde433539c097b2edc9b587ca47b0
 #EXTINF:-1 group-title="1. La Liga" tvg-id="LaLiga TV Hypermotion 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%203.png" ,LaLіgaTV Hypermotion 3
 http://192.168.1.88:6878/ace/getstream?id=b4a076c1f67a5c1f1ba899ac61b9401b1dc30f41
 #EXTINF:-1 group-title="1. La Liga" tvg-id="ELEVEN.SPORTS.1.pt" tvg-logo="https://epgx.site/p/eleven-sport1-pt.png" ,DAZN ELEVEN 1 (PT)
-http://192.168.1.88:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+plugin://script.module.horus?action=play&id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 group-title="1. La Liga" tvg-id="ELEVEN.SPORTS.2.pt" tvg-logo="https://epgx.site/p/eleven-sport2-pt.png" ,DAZN ELEVEN 2 (PT)
 http://192.168.1.88:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 group-title="1. La Liga" tvg-id="ELEVEN.SPORTS.3.pt" tvg-logo="https://epgx.site/p/eleven-sport3-pt.png" ,DAZN ELEVEN 3 (PT)
