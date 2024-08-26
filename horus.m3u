@@ -11,7 +11,7 @@ http://192.168.1.88:6878/ace/getstream?id=1960a9be8ae9e8c755330218eac4c580546629
 http://192.168.1.88:6878/ace/getstream?id=75251ba975132ec9a202806ba5bf606e87280c96
 #EXTINF:-1 group-title="1. La Liga" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202%20HD.png" ,DZ LaLіga 2
 http://192.168.1.88:6878/ace/getstream?id=e33e666c393ef04ebe99a9b92135d2e0b48c4d10
-#EXTINF:-1 group-title="1. La Liga" tvg-id="Premier Sports 1" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/main/Premier-Sports-1-HD-_1_.png" ,Premier Sports 1
+#EXTINF:-1 group-title="1. La Liga" tvg-id="UK | Premier Sports 1" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/main/Premier-Sports-1-HD-_1_.png" ,Premier Sports 1
 http://192.168.1.88:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
-#EXTINF:-1 group-title="1. La Liga" tvg-id="Premier Sports 2" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/main/Premier-Sports-2-HD-_1_.png" ,Premier Sports 2
+#EXTINF:-1 group-title="1. La Liga" tvg-id="UK | Premier Sports 2" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/main/Premier-Sports-2-HD-_1_.png" ,Premier Sports 2
 http://192.168.1.88:6878/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537
