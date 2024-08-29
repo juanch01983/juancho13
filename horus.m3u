@@ -1,15 +1,15 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml"
-#EXTINF:-1 group-title="España" tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20HD.png" ,M. LaLіgaTV Op1
+#EXTINF:-1 group-title="España" tvg-id="M+ LaLiga TV HD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/23v0bw1692438187.png" ,M. LaLіgaTV Op1
 http://192.168.1.88:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 group-title="España" tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20HD.png" ,M. LaLіgaTV Op2*
+#EXTINF:-1 group-title="España" tvg-id="M+ LaLiga TV HD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/23v0bw1692438187.png" ,M. LaLіgaTV Op2*
 http://192.168.1.88:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 group-title="España" tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20HD.png" ,DZ LaLіga Op1*
+#EXTINF:-1 group-title="España" tvg-id="DAZN LaLiga HD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/4qm3dw1692437861.png" ,DZ LaLіga Op1*
 http://192.168.1.88:6878/ace/getstream?id=1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:-1 group-title="España" tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20HD.png" ,DZ LaLіga Op2
+#EXTINF:-1 group-title="España" tvg-id="DAZN LaLiga HD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/4qm3dw1692437861.png" ,DZ LaLіga Op2
 http://192.168.1.88:6878/ace/getstream?id=75251ba975132ec9a202806ba5bf606e87280c96
-#EXTINF:-1 group-title="España" tvg-id="LaLiga TV BAR HD" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/main/image.png" ,M. LaLіgaTV BAR HD
+#EXTINF:-1 group-title="España" tvg-id="LaLiga TV BAR HD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/f9y6oe1692444384.png" ,M. LaLіgaTV BAR HD
 http://192.168.1.88:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 group-title="España" tvg-id="LaLiga TV BAR HD" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/main/image.png" ,M. LaLіgaTV BAR HD Op2
+#EXTINF:-1 group-title="España" tvg-id="LaLiga TV BAR HD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/f9y6oe1692444384.png" ,M. LaLіgaTV BAR HD Op2
 http://192.168.1.88:6878/ace/getstream?id=512aeadf50d91603d15b32f1e408166536ec4ac9
 #EXTINF:-1 group-title="España" tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%202%20HD.png" ,M. LaLіgaTV 2
 http://192.168.1.88:6878/ace/getstream?id=26029f72a4ca831d09deefe89534818db1d105bc
