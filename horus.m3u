@@ -15,3 +15,15 @@ http://192.168.1.88:6878/ace/getstream?id=512aeadf50d91603d15b32f1e408166536ec4a
 http://192.168.1.88:6878/ace/getstream?id=26029f72a4ca831d09deefe89534818db1d105bc
 #EXTINF:-1 group-title="España" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202%20HD.png" ,DZ LaLіga 2
 http://192.168.1.88:6878/ace/getstream?id=e33e666c393ef04ebe99a9b92135d2e0b48c4d10
+#EXTINF:-1 group-title="Portugal" tvg-id="PT | Eleven 1" tvg-logo="https://epgx.site/p/eleven-sport1-pt.png" ,DAZN ELEVEN 1 (PT)
+http://192.168.1.88:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 group-title="Portugal" tvg-id="PT | Eleven 2" tvg-logo="https://epgx.site/p/eleven-sport2-pt.png" ,DAZN ELEVEN 2 (PT)
+http://192.168.1.88:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 group-title="Portugal" tvg-id="PT | Eleven 3" tvg-logo="https://epgx.site/p/eleven-sport3-pt.png" ,DAZN ELEVEN 3 (PT)
+http://192.168.1.88:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
+#EXTINF:-1 group-title="Portugal" tvg-id="PT | Eleven 4" tvg-logo="https://epgx.site/p/eleven-sport4-pt.png" ,DAZN ELEVEN 4 (PT)
+http://192.168.1.88:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
+#EXTINF:-1 group-title="Portugal" tvg-id="PT | Eleven 5" tvg-logo="https://epgx.site/p/eleven-sport5-pt.png" ,DAZN ELEVEN 5 (PT)
+http://192.168.1.88:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
+#EXTINF:-1 group-title="Portugal" tvg-id="PT | Eleven 6" tvg-logo="https://epgx.site/p/eleven-sport6-pt.png" ,DAZN ELEVEN 6 (PT)
+http://192.168.1.88:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
