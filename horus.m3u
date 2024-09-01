@@ -13,5 +13,5 @@ http://192.168.1.88:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d422
 http://192.168.1.88:6878/ace/getstream?id=512aeadf50d91603d15b32f1e408166536ec4ac9
 #EXTINF:-1 group-title="España" tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%202%20HD.png" ,M. LaLіgaTV 2
 http://192.168.1.88:6878/ace/getstream?id=26029f72a4ca831d09deefe89534818db1d105bc
-#EXTINF:-1 group-title="España" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202%20HD.png" ,DZ LaLіga 2
-http://192.168.1.88:6878/ace/getstream?id=e33e666c393ef04ebe99a9b92135d2e0b48c4d10
+#EXTINF:-1 group-title="España" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202%20HD.png" ,DZ LaLіga 2*
+http://192.168.1.88:6878/ace/getstream?id=e33e666c393ef04ebe99a9b92135d2e0b48c4d10&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
