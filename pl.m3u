@@ -1,15 +1,3 @@
-#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20HD.png" ,M. LaLіgaTV Op1
-http://192.168.1.88:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f&ts=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
-#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20HD.png" ,M. LaLіgaTV Op2
-http://192.168.1.88:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5&ts=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
-#EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%202%20HD.png" ,M. LaLіgaTV 2
-http://192.168.1.88:6878/ace/getstream?id=26029f72a4ca831d09deefe89534818db1d105bc&ts=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
-#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20HD.png" ,DZ LaLіga Op1
-http://192.168.1.88:6878/ace/getstream?id=1960a9be8ae9e8c755330218eac4c5805466290a&ts=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
-#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20HD.png" ,DZ LaLіga Op2
-http://192.168.1.88:6878/ace/getstream?id=75251ba975132ec9a202806ba5bf606e87280c96&ts=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
-#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202%20HD.png" ,DZ LaLіga 2
-http://192.168.1.88:6878/ace/getstream?id=e33e666c393ef04ebe99a9b92135d2e0b48c4d10&ts=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 #EXTINF:-1 tvg-id="Eleven.Sports.1.4K.pl" tvg-logo="https://epg.ovh/logo/Eleven+Sports+4K.png" ,ELEVEN SPORT 1 4K (PL)
 http://192.168.1.88:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652&ts=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 #EXTINF:-1 tvg-id="CANAL+.Sport.HD.pl" tvg-logo="https://epg.ovh/logo/Canal++Sport.png" ,Canal Sport 1 [PL]
