@@ -15,3 +15,15 @@ http://192.168.1.88:6878/ace/getstream?id=512aeadf50d91603d15b32f1e408166536ec4a
 http://192.168.1.88:6878/ace/getstream?id=26029f72a4ca831d09deefe89534818db1d105bc&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 #EXTINF:-1 group-title="España" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202%20HD.png" ,DZ LaLіga 2*
 http://192.168.1.88:6878/ace/getstream?id=e33e666c393ef04ebe99a9b92135d2e0b48c4d10&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1  tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%20HD.png" ,LaLіgaTV Hypermotion
+http://192.168.1.88:6878/ace/getstream?id=4c46585214b23b1d802ef2168060c7649a3894cf&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1  tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png" ,LaLіgaTV Hypermotion 2
+http://192.168.1.88:6878/ace/getstream?id=d81b4f2f3fde433539c097b2edc9b587ca47b087&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1  tvg-id="LaLiga TV Hypermotion 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%203.png" ,LaLіgaTV Hypermotion 3
+http://192.168.1.88:6878/ace/getstream?id=b4a076c1f67a5c1f1ba899ac61b9401b1dc30f41&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="Horus" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%20HD.png" ,Hypermotion (Horus)
+plugin://script.module.horus?action=play&id=4c46585214b23b1d802ef2168060c7649a3894cf
+#EXTINF:-1 group-title="Horus" tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png" ,Hypermotion 2 (Horus)
+plugin://script.module.horus?action=play&id=d81b4f2f3fde433539c097b2edc9b587ca47b087
+#EXTINF:-1 group-title="Horus" tvg-id="LaLiga TV Hypermotion 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%203.png" ,Hypermotion 3 (Horus)
+plugin://script.module.horus?action=play&id=b4a076c1f67a5c1f1ba899ac61b9401b1dc30f41
