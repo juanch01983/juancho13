@@ -8,3 +8,13 @@ http://192.168.1.88:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df
 http://192.168.1.88:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 #EXTINF:-1 group-title="Portugal" tvg-id="ELEVEN.SPORTS.5.pt" tvg-logo="https://epgx.site/p/eleven-sport5-pt.png" ,DAZN ELEVEN 5 (PT)
 http://192.168.1.88:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="Horus" tvg-id="ELEVEN.SPORTS.1.pt" tvg-logo="https://epgx.site/p/eleven-sport1-pt.png" ,DAZN ELEVEN 1 (PT)
+plugin://script.module.horus?action=play&id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 group-title="Horus" tvg-id="ELEVEN.SPORTS.2.pt" tvg-logo="https://epgx.site/p/eleven-sport2-pt.png" ,DAZN ELEVEN 2 (PT)
+plugin://script.module.horus?action=play&id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 group-title="Horus" tvg-id="ELEVEN.SPORTS.3.pt" tvg-logo="https://epgx.site/p/eleven-sport3-pt.png" ,DAZN ELEVEN 3 (PT)
+plugin://script.module.horus?action=play&id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
+#EXTINF:-1 group-title="Horus" tvg-id="ELEVEN.SPORTS.4.pt" tvg-logo="https://epgx.site/p/eleven-sport4-pt.png" ,DAZN ELEVEN 4 (PT)
+plugin://script.module.horus?action=play&id=0f32c0131a2d9444996410801f4e18b04384db98
+#EXTINF:-1 group-title="Horus" tvg-id="ELEVEN.SPORTS.5.pt" tvg-logo="https://epgx.site/p/eleven-sport5-pt.png" ,DAZN ELEVEN 5 (PT)
+plugin://script.module.horus?action=play&id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
