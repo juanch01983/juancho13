@@ -58,3 +58,25 @@ http://127.0.0.1:6878/ace/getstream?id=60dbeeb299ec04bf02bc7426d827547599d3d9fc&
 http://127.0.0.1:6878/ace/getstream?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 #EXTINF:-1 group-title="España" tvg-id="DAZN 4 HD" tvg-name="DAZN 4 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204%20HD.png" ,DAZN 4 HD (ES)
 http://127.0.0.1:6878/ace/getstream?id=2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="Inglaterra" tvg-id="TNTSports1.HD.uk" tvg-name="TNTSports1.HD.uk" tvg-logo="https://livematch.ge/img/TNTSports1.png" ,TNT Sports 1 (UK)
+http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="Inglaterra" tvg-id="TNTSports2.HD.uk" tvg-name="TNTSports2.HD.uk" tvg-logo="https://livematch.ge/img/TNTSports2.png" ,TNT Sports 2 (UK)
+http://127.0.0.1:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="Inglaterra" tvg-id="TNTSports3.HD.uk" tvg-name="TNTSports3.HD.uk" tvg-logo="https://livematch.ge/img/TNTSports3.png" ,TNT Sports 3 (UK)
+http://127.0.0.1:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="Inglaterra" tvg-id="TNTSports4.HD.uk" tvg-name="TNTSports4.HD.uk" tvg-logo="https://livematch.ge/img/TNTSports4.png" ,TNT Sports 4 (UK)
+http://127.0.0.1:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="Inglaterra" tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/main/Sky-Sports-Main-Event-HD.png" ,Sky Sports Main Event (UK)
+http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="Inglaterra" tvg-id="Sky.Sports.Football.HD.uk" tvg-name="Sky Sports Football" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/main/Sky-Sports-Football-HD.png" ,Sky Sports Football (UK)
+http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="Inglaterra" tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League HD" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/main/Sky-Sports-Premier-League-HD.png" ,Sky Sports Premier League HD (UK)
+http://127.0.0.1:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="Inglaterra" tvg-id="Premier.Sports.1.HD.ie" tvg-name="Premier Sports 1 HD" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/main/Premier-Sports-1-HD-_1_.png" ,Premier Sports 1 HD (UK)
+http://127.0.0.1:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="Inglaterra" tvg-id="Premier.Sports.2.HD.ie" tvg-name="Premier Sports 2 HD" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/main/Premier-Sports-2-HD-_1_.png" ,Premier Sports 2 HD (UK)
+http://127.0.0.1:6878/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 tvg-id="España" tvg-name="M+ Liga de Campeones" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%20HD.png" ,M+ L.Camp. Op1
+http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 tvg-id="España" tvg-name="M+ Liga de Campeones" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%20HD.png" ,M+ L.Camp. Op2
+http://127.0.0.1:6878/ace/getstream?id=f096a64dd756a6d549aa7b12ee9acf7eee27e833&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
