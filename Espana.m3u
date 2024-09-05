@@ -22,18 +22,6 @@ http://127.0.0.1:6878/ace/getstream?id=4c46585214b23b1d802ef2168060c7649a3894cf&
 http://127.0.0.1:6878/ace/getstream?id=d81b4f2f3fde433539c097b2edc9b587ca47b087&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 #EXTINF:-1 group-title="España" tvg-id="LaLiga TV Hypermotion 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%203.png" ,LaLіgaTV Hypermotion 3
 http://127.0.0.1:6878/ace/getstream?id=b4a076c1f67a5c1f1ba899ac61b9401b1dc30f41&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
-#EXTINF:-1 group-title="Portugal" tvg-id="PT | Eleven 1" tvg-logo="https://epgx.site/p/eleven-sport1-pt.png" ,DAZN ELEVEN 1 (PT)
-http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
-#EXTINF:-1 group-title="Portugal" tvg-id="PT | Eleven 2" tvg-logo="https://epgx.site/p/eleven-sport2-pt.png" ,DAZN ELEVEN 2 (PT)
-http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
-#EXTINF:-1 group-title="Portugal" tvg-id="PT | Eleven 3" tvg-logo="https://epgx.site/p/eleven-sport3-pt.png" ,DAZN ELEVEN 3 (PT)
-http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
-#EXTINF:-1 group-title="Portugal" tvg-id="PT | Eleven 4" tvg-logo="https://epgx.site/p/eleven-sport4-pt.png" ,DAZN ELEVEN 4 (PT)
-http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
-#EXTINF:-1 group-title="Portugal" tvg-id="PT | Eleven 5" tvg-logo="https://epgx.site/p/eleven-sport5-pt.png" ,DAZN ELEVEN 5 (PT)
-http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
-#EXTINF:-1 group-title="Portugal" tvg-id="PT | Eleven 6" tvg-logo="https://epgx.site/p/eleven-sport6-pt.png" ,DAZN ELEVEN 6 (PT)
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 #EXTINF:-1 group-title="España" tvg-id="DAZN 1 HD" tvg-name="DAZN 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20HD.png" ,DAZN 1 HD (ES)
 http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 ##EXTINF:-1 group-title="España" tvg-id="DAZN 2 HD" tvg-name="DAZN 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202%20HD.png" ,DAZN 2 HD (ES)
@@ -50,3 +38,15 @@ http://127.0.0.1:6878/ace/getstream?id=f096a64dd756a6d549aa7b12ee9acf7eee27e833&
 http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 #EXTINF:-1 group-title="España" tvg-id="M+ Deportes HD" tvg-name="M+ Deportes HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%20HD.png" ,M+ Deportes
 http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="Portugal" tvg-id="PT | Eleven 1" tvg-logo="https://epgx.site/p/eleven-sport1-pt.png" ,DAZN ELEVEN 1 (PT)
+http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="Portugal" tvg-id="PT | Eleven 2" tvg-logo="https://epgx.site/p/eleven-sport2-pt.png" ,DAZN ELEVEN 2 (PT)
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="Portugal" tvg-id="PT | Eleven 3" tvg-logo="https://epgx.site/p/eleven-sport3-pt.png" ,DAZN ELEVEN 3 (PT)
+http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="Portugal" tvg-id="PT | Eleven 4" tvg-logo="https://epgx.site/p/eleven-sport4-pt.png" ,DAZN ELEVEN 4 (PT)
+http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="Portugal" tvg-id="PT | Eleven 5" tvg-logo="https://epgx.site/p/eleven-sport5-pt.png" ,DAZN ELEVEN 5 (PT)
+http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="Portugal" tvg-id="PT | Eleven 6" tvg-logo="https://epgx.site/p/eleven-sport6-pt.png" ,DAZN ELEVEN 6 (PT)
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
