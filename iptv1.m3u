@@ -5,7 +5,7 @@ http://cf.8772625.me:80/e0e9eb7acb20/56aee3d77d/839972
 #EXTINF:-1 group-title="España" tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%202%20HD.png" ,M. LaLіgaTV 2
 http://cf.8772625.me:80/e0e9eb7acb20/56aee3d77d/840008
 #EXTINF:-1 group-title="España" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202%20HD.png" ,DZ LaLіga 2*
-http://127.0.0.1:6878/ace/getstream?id=e33e666c393ef04ebe99a9b92135d2e0b48c4d10&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+http://cf.8772625.me:80/e0e9eb7acb20/56aee3d77d/839971
 #EXTINF:-1 group-title="España" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%20HD.png" ,LaLіgaTV Hypermotion
 http://cf.8772625.me:80/e0e9eb7acb20/56aee3d77d/840008
 #EXTINF:-1 group-title="España" tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png" ,LaLіgaTV Hypermotion 2
