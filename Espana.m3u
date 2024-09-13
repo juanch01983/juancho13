@@ -1,4 +1,3 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml"
 #EXTINF:-1 group-title="España" tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20HD.png" ,M. LaLіgaTV Op1
 http://127.0.0.1:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 #EXTINF:-1 group-title="España" tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20HD.png" ,M. LaLіgaTV Op2*
