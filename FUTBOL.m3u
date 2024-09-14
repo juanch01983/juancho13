@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 group-title="Movistar La Liga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20HD.png" ,(ACE) M. LaLіgaTV
+http://127.0.0.1:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="Movistar La Liga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20HD.png" ,(IPTV) M. LaLіgaTV
+http://cf.8772625.me:80/e0e9eb7acb20/56aee3d77d/840009
+#EXTINF:-1 group-title="Movistar La Liga" tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%202%20HD.png" ,(ACE) LaLіgaTV 2
+http://127.0.0.1:6878/ace/getstream?id=26029f72a4ca831d09deefe89534818db1d105bc&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="Movistar La Liga" tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%202%20HD.png" ,(IPTV) LaLіgaTV 2
+http://cf.8772625.me:80/e0e9eb7acb20/56aee3d77d/840008
