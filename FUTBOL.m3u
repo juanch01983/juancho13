@@ -27,3 +27,11 @@ http://cf.8772625.me:80/e0e9eb7acb20/56aee3d77d/840005
 http://127.0.0.1:6878/ace/getstream?id=b4a076c1f67a5c1f1ba899ac61b9401b1dc30f41&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 #EXTINF:-1 group-title="Movistar La Liga" tvg-id="LaLiga TV Hypermotion 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%203.png" ,,(IPTV) Hypermotion 3
 http://cf.8772625.me:80/e0e9eb7acb20/56aee3d77d/840004
+#EXTINF:-1 group-title="DAZN ESPAÑA" tvg-id="DAZN 1 HD" tvg-name="DAZN 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20HD.png" ,(IPTV) DAZN 1
+http://cf.8772625.me:80/e0e9eb7acb20/56aee3d77d/839951
+#EXTINF:-1 group-title="DAZN ESPAÑA" tvg-id="DAZN 2 HD" tvg-name="DAZN 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202%20HD.png" ,(IPTV) DAZN 2
+http://cf.8772625.me:80/e0e9eb7acb20/56aee3d77d/839950
+#EXTINF:-1 group-title="DAZN ESPAÑA" tvg-id="DAZN 3 HD" tvg-name="DAZN 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203%20HD.png" ,(IPTV) DAZN 3
+http://cf.8772625.me:80/e0e9eb7acb20/56aee3d77d/839949
+#EXTINF:-1 group-title="DAZN ESPAÑA" tvg-id="DAZN 4 HD" tvg-name="DAZN 4 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204%20HD.png" ,(IPTV) DAZN 4
+http://cf.8772625.me:80/e0e9eb7acb20/56aee3d77d/839948
