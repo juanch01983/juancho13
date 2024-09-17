@@ -1,12 +1,3 @@
-#EXTINF:-1 group-title="UEFA" tvg-id="Polsat.Sport.Premium.1.pl" tvg-logo="https://epg.ovh/logo/Polsat+Sport+Premium+1.png" ,UEFA 1
-http://cf.8772625.me:80/e0e9eb7acb20/56aee3d77d/458498
-#EXTINF:-1 group-title="UEFA" tvg-id="Polsat.Sport.Premium.2.pl" tvg-logo="https://epg.ovh/logo/Polsat+Sport+Premium+2.png" ,UEFA 2
-http://cf.8772625.me:80/e0e9eb7acb20/56aee3d77d/458497
-#EXTINF:-1 group-title="UEFA" tvg-id="Polsat.Sport.Premium.3.pl" tvg-logo="https://epg.ovh/logo/Polsat+Sport+Premium+3.png" ,UEFA 3
-http://cf.8772625.me:80/e0e9eb7acb20/56aee3d77d/458496
-#EXTINF:-1 group-title="UEFA" tvg-id="Polsat.Sport.Premium.4.pl" tvg-logo="https://epg.ovh/logo/Polsat+Sport+Premium+4.png" ,UEFA 4
-http://cf.8772625.me:80/e0e9eb7acb20/56aee3d77d/458495
-#EXTINF:-1 group-title="UEFA" tvg-id="Polsat.Sport.Premium.5.pl" tvg-logo="https://epg.ovh/logo/Polsat+Sport+Premium+5.png" ,UEFA 5
-http://cf.8772625.me:80/e0e9eb7acb20/56aee3d77d/458494
-#EXTINF:-1 group-title="UEFA" tvg-id="Polsat.Sport.Premium.6.pl" tvg-logo="https://epg.ovh/logo/Polsat+Sport+Premium+6.png" ,UEFA 6
-http://cf.8772625.me:80/e0e9eb7acb20/56aee3d77d/458493
+#EXTM3U
+#EXTINF:-1 group-title="La Liga TV" tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20HD.png" ,(ACE) LaLіgaTV
+http://127.0.0.1:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
