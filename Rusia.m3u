@@ -1,0 +1,10 @@
+#EXTINF:-1 group-title="Russia" tvg-id="DAZN.1.pt" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/jtejin1630099100.png" ,Okko Sports 1
+http://127.0.0.1:6878/ace/getstream?id=350b2044f1c9e87e18d8fbda1bcc456c22cf9296&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="Russia" tvg-id="DAZN.1.pt" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/jtejin1630099100.png" ,Okko Sports 2
+http://127.0.0.1:6878/ace/getstream?id=8442b5c7c99e5af57c2c40c1e28153072968988a&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="Russia" tvg-id="DAZN.1.pt" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/jtejin1630099100.png" ,Okko Sports 3
+http://127.0.0.1:6878/ace/getstream?id=e38b33c56332de27ff25df223cdf488b1ec6051f&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="Russia" tvg-id="DAZN.1.pt" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/jtejin1630099100.png" ,Okko Sports 4
+http://127.0.0.1:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="Russia" tvg-id="DAZN.1.pt" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/jtejin1630099100.png" ,Okko Sports 5
+http://127.0.0.1:6878/ace/getstream?id=aca05dc506242324c1727525d0535ceda24f8dea&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
