@@ -10,3 +10,5 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98&
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 #EXTINF:-1 group-title="Portugal" tvg-id="DAZN.6.pt" tvg-logo="https://iptvx.one/picons/eleven-sport6-pt.png" ,DAZN 6 (PT)
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="Portugal" tvg-id="DAZN.6.pt" tvg-logo="https://iptvx.one/picons/eleven-sport6-pt.png" ,Eleven 1 4K
+http://127.0.0.1:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
