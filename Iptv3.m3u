@@ -1,58 +1,52 @@
-#EXTINF:-1 group-title="IPTV" tvg-id="La 1 HD" tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/La%201%20UHD.png?raw=true" ,La 1 UHD
-http://8kpremium.xyz:80/e0e9eb7acb20/56aee3d77d/840238
-#EXTINF:-1 group-title="IPTV" tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/refs/heads/main/oie_ZvfEWjQtxurw.png" ,M. LaLіgaTV
+#EXTINF:-1 group-title="LA LIGA" tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/refs/heads/main/oie_ZvfEWjQtxurw.png" ,M. LaLіgaTV
 http://cf.8772625.me:80/e0e9eb7acb20/56aee3d77d/840010
-#EXTINF:-1 group-title="IPTV" tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/refs/heads/main/oie_vXAttDxRu3H5.png" ,M. LaLіgaTV 2
+#EXTINF:-1 group-title="LA LIGA" tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/refs/heads/main/oie_vXAttDxRu3H5.png" ,M. LaLіgaTV 2
 http://cf.8772625.me:80/e0e9eb7acb20/56aee3d77d/840008
-#EXTINF:-1 group-title="IPTV" tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/refs/heads/main/oie_NyevO6IhqxA3.png" ,DZ LaLіga
+#EXTINF:-1 group-title="LA LIGA" tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/refs/heads/main/oie_NyevO6IhqxA3.png" ,DZ LaLіga
 http://cf.8772625.me:80/e0e9eb7acb20/56aee3d77d/839972
-#EXTINF:-1 group-title="IPTV" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/refs/heads/main/oie_ug221bdU29XO.png" ,DZ LaLіga 2
+#EXTINF:-1 group-title="LA LIGA" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/refs/heads/main/oie_ug221bdU29XO.png" ,DZ LaLіga 2
 http://cf.8772625.me:80/e0e9eb7acb20/56aee3d77d/839971
-#EXTINF:-1 group-title="IPTV" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/refs/heads/main/oie_Ftp00pUTrGZS.png" ,LaLіgaTV Hypermotion
+#EXTINF:-1 group-title="LA LIGA HYPER" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/refs/heads/main/oie_Ftp00pUTrGZS.png" ,LaLіgaTV Hypermotion
 http://cf.8772625.me:80/e0e9eb7acb20/56aee3d77d/840006
-#EXTINF:-1 group-title="IPTV" tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/refs/heads/main/oie_7gkfHZDkazfJ.png" ,LaLіgaTV Hypermotion 2
+#EXTINF:-1 group-title="LA LIGA HYPER" tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/refs/heads/main/oie_7gkfHZDkazfJ.png" ,LaLіgaTV Hypermotion 2
 http://cf.8772625.me:80/e0e9eb7acb20/56aee3d77d/840005
-#EXTINF:-1 group-title="IPTV" tvg-id="LaLiga TV Hypermotion 3" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/refs/heads/main/oie_vLvMDwg1tSwo.png" ,LaLіgaTV Hypermotion 3
+#EXTINF:-1 group-title="LA LIGA HYPER" tvg-id="LaLiga TV Hypermotion 3" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/refs/heads/main/oie_vLvMDwg1tSwo.png" ,LaLіgaTV Hypermotion 3
 http://cf.8772625.me:80/e0e9eb7acb20/56aee3d77d/840004
-#EXTINF:-1 group-title="IPTV" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/refs/heads/main/oie_Dkcpqtpa9v5q.png" ,M+ L.Camp.
+#EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/refs/heads/main/oie_Dkcpqtpa9v5q.png" ,M+ L.Camp.
 http://cf.8772625.me:80/e0e9eb7acb20/56aee3d77d/839986
-#EXTINF:-1 group-title="IPTV" tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/refs/heads/main/oie_0jMdFWhg5EMc.png" ,M+ L.Camp. 2
+#EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/refs/heads/main/oie_0jMdFWhg5EMc.png" ,M+ L.Camp. 2
 http://cf.8772625.me:80/e0e9eb7acb20/56aee3d77d/839985
-#EXTINF:-1 group-title="IPTV" tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/refs/heads/main/oie_Q6mtcj426Mbj.png" ,M+ L.Camp. 3
+#EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://raw.githubusercontent.com/juanch01983/juancho13/refs/heads/main/oie_Q6mtcj426Mbj.png" ,M+ L.Camp. 3
 http://cf.8772625.me:80/e0e9eb7acb20/56aee3d77d/839984
-#EXTINF:-1 group-title="IPTV" tvg-id="DAZN 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20HD.png" ,DAZN 1
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20HD.png" ,DAZN 1
 http://cf.8772625.me:80/e0e9eb7acb20/56aee3d77d/839951
-#EXTINF:-1 group-title="IPTV" tvg-id="DAZN 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202%20HD.png" ,DAZN 2
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202%20HD.png" ,DAZN 2
 http://cf.8772625.me:80/e0e9eb7acb20/56aee3d77d/839950
-#EXTINF:-1 group-title="IPTV" tvg-id="DAZN 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203%20HD.png" ,DAZN 3
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203%20HD.png" ,DAZN 3
 http://cf.8772625.me:80/e0e9eb7acb20/56aee3d77d/839949
-#EXTINF:-1 group-title="IPTV" tvg-id="DAZN 4 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204%20HD.png" ,DAZN 4
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 4 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204%20HD.png" ,DAZN 4
 http://cf.8772625.me:80/e0e9eb7acb20/56aee3d77d/839948
-#EXTINF:-1 group-title="IPTV" tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" ,DAZN F1
-http://cf.8772625.me:80/e0e9eb7acb20/56aee3d77d/839952
-#EXTINF:-1 group-title="IPTV" tvg-id="M+ Deportes HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" ,M+ Deportes
+#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Deportes HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" ,M+ Deportes
 http://cf.8772625.me:80/e0e9eb7acb20/56aee3d77d/839941
-#EXTINF:-1 group-title="IPTV" tvg-id="M+ Deportes 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" ,M+ Deportes 2
+#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Deportes 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" ,M+ Deportes 2
 http://cf.8772625.me:80/e0e9eb7acb20/56aee3d77d/839940
-#EXTINF:-1 group-title="IPTV" tvg-id="Real Madrid TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Real%20Madrid%20TV.png" ,Real Madrid TV
+#EXTINF:-1 group-title="DEPORTES" tvg-id="Real Madrid TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Real%20Madrid%20TV.png" ,Real Madrid TV
 http://cf.8772625.me:80/e0e9eb7acb20/56aee3d77d/840229
-#EXTINF:-1 group-title="IPTV" tvg-id="Eurosport 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" ,Eurosport 1
+#EXTINF:-1 group-title="DEPORTES" tvg-id="Eurosport 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" ,Eurosport 1
 http://cf.8772625.me:80/e0e9eb7acb20/56aee3d77d/839912
-#EXTINF:-1 group-title="IPTV" tvg-id="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" ,Eurosport 2
+#EXTINF:-1 group-title="DEPORTES" tvg-id="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" ,Eurosport 2
 http://cf.8772625.me:80/e0e9eb7acb20/56aee3d77d/839911
-#EXTINF:-1 group-title="IPTV" tvg-id="Teledeporte" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" ,Teledeporte
-http://cf.8772625.me:80/e0e9eb7acb20/56aee3d77d/839910
-#EXTINF:-1 group-title="IPTV" tvg-id="GOL PLAY" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GOL%20PLAY.png" ,GOL PLAY
+#EXTINF:-1 group-title="DEPORTES" tvg-id="GOL PLAY" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GOL%20PLAY.png" ,GOL PLAY
 http://cf.8772625.me:80/e0e9eb7acb20/56aee3d77d/839915
-#EXTINF:-1 group-title="IPTV" tvg-id="M+ Vamos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos.png" ,M+ Vamos
+#EXTINF:-1 group-title="VARIADOS" tvg-id="M+ Vamos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos.png" ,M+ Vamos
 http://cf.8772625.me:80/e0e9eb7acb20/56aee3d77d/839861
-#EXTINF:-1 group-title="IPTV" tvg-id="Movistar Plus+ HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" ,Movistar Plus+
+#EXTINF:-1 group-title="VARIADOS" tvg-id="Movistar Plus+ HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" ,Movistar Plus+
 http://cf.8772625.me:80/e0e9eb7acb20/56aee3d77d/840088
-#EXTINF:-1 group-title="IPTV" tvg-id="Movistar Plus+ 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B%202.png" ,Movistar Plus+ 2
+#EXTINF:-1 group-title="VARIADOS" tvg-id="Movistar Plus+ 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B%202.png" ,Movistar Plus+ 2
 http://cf.8772625.me:80/e0e9eb7acb20/56aee3d77d/840087
-#EXTINF:-1 group-title="IPTV" tvg-id="M+ Ellas Vamos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Ellas%20Vamos.png" ,M+ Ellas Vamos
+#EXTINF:-1 group-title="VARIADOS" tvg-id="M+ Ellas Vamos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Ellas%20Vamos.png" ,M+ Ellas Vamos
 http://cf.8772625.me:80/e0e9eb7acb20/56aee3d77d/839860
-#EXTINF:-1 group-title="IPTV" tvg-id="Mega" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mega.png" ,Mega
+#EXTINF:-1 group-title="VARIADOS" tvg-id="Mega" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mega.png" ,Mega
 http://cf.8772625.me:80/e0e9eb7acb20/56aee3d77d/840061
-#EXTINF:-1 group-title="IPTV" tvg-id="La Sexta HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Sexta.png" ,La Sexta
+#EXTINF:-1 group-title="VARIADOS" tvg-id="La Sexta HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Sexta.png" ,La Sexta
 http://cf.8772625.me:80/e0e9eb7acb20/56aee3d77d/840231
