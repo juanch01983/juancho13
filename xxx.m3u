@@ -1,11 +1,11 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml"
-#EXTINF:-1 group-title="Canales Españoles" tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20HD.png" ,M. LaLіga
+#EXTINF:-1 group-title="Canales Españoles" tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20HD.png" ,M+ LaLіga
 http://par78365.cdn-ak.me/live/JR198FAC26BC/ad6c7dcfcb/1683611.ts
-#EXTINF:-1 group-title="Canales Españoles" tvg-id="M+ LaLiga HDR" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20HDR.png" ,M. LaLіga HDR
+#EXTINF:-1 group-title="Canales Españoles" tvg-id="M+ LaLiga HDR" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20HDR.png" ,M+ LaLіga HDR
 http://par78365.cdn-ak.me/live/JR198FAC26BC/ad6c7dcfcb/1677879.ts
-#EXTINF:-1 group-title="Canales Españoles" tvg-id="M+ LaLiga 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%202.png" ,M. LaLіga 2
+#EXTINF:-1 group-title="Canales Españoles" tvg-id="M+ LaLiga 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%202.png" ,M+ LaLіga 2
 http://par78365.cdn-ak.me/live/JR198FAC26BC/ad6c7dcfcb/1683610.ts
-#EXTINF:-1 group-title="Canales Españoles" tvg-id="M+ LaLiga 2 HDR" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%202%20HDR.png" ,M. LaLіga 2 HDR
+#EXTINF:-1 group-title="Canales Españoles" tvg-id="M+ LaLiga 2 HDR" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%202%20HDR.png" ,M+ LaLіga 2 HDR
 http://par78365.cdn-ak.me/live/JR198FAC26BC/ad6c7dcfcb/1677878.ts
 #EXTINF:-1 group-title="Canales Españoles" tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" ,DAZN LaLiga
 http://par78365.cdn-ak.me/live/JR198FAC26BC/ad6c7dcfcb/1683618.ts
